@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12 19:26 UTC",
+  "last_updated": "2026-08-13 19:24 UTC",
   "repos": {
     "FeroxTL/pynginxconfig-new": {
       "metadata": {
@@ -39,7 +39,7 @@
         "name": "clash-verge-rev",
         "owner": "clash-verge-rev",
         "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-        "stars": 137389,
+        "stars": 137605,
         "language": "TypeScript",
         "url": "https://github.com/clash-verge-rev/clash-verge-rev",
         "homepage": "https://www.clashverge.dev",
@@ -53,8 +53,8 @@
           "tauri-app",
           "windows"
         ],
-        "pushed_at": "2026-08-12T15:46:30Z",
-        "updated_at": "2026-08-12T19:15:03Z",
+        "pushed_at": "2026-08-13T17:15:29Z",
+        "updated_at": "2026-08-13T18:03:21Z",
         "starred_at": "2026-03-05T09:01:18Z"
       },
       "summary": {
@@ -80,7 +80,7 @@
         "name": "PicGo",
         "owner": "Molunerfinn",
         "description": ":rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.",
-        "stars": 26980,
+        "stars": 26984,
         "language": "TypeScript",
         "url": "https://github.com/Molunerfinn/PicGo",
         "homepage": "https://picgo.app",
@@ -104,7 +104,7 @@
           "weibo"
         ],
         "pushed_at": "2026-07-21T06:21:12Z",
-        "updated_at": "2026-08-12T06:56:00Z",
+        "updated_at": "2026-08-13T15:30:22Z",
         "starred_at": "2026-03-12T09:43:13Z"
       },
       "summary": {
@@ -130,7 +130,7 @@
         "name": "wsl2-distro-manager",
         "owner": "bostrot",
         "description": "A GUI to quickly manage your WSL2 instances",
-        "stars": 3956,
+        "stars": 3955,
         "language": "Dart",
         "url": "https://github.com/bostrot/wsl2-distro-manager",
         "homepage": "https://apps.microsoft.com/store/detail/wsl-manager/9NWS9K95NMJB",
@@ -147,7 +147,7 @@
           "wsl2"
         ],
         "pushed_at": "2026-04-14T17:53:10Z",
-        "updated_at": "2026-08-12T18:49:05Z",
+        "updated_at": "2026-08-13T17:39:39Z",
         "starred_at": "2026-03-13T01:43:19Z"
       },
       "summary": {
@@ -226,7 +226,7 @@
         "name": "cloud-mail",
         "owner": "maillab",
         "description": "A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail",
-        "stars": 13360,
+        "stars": 13387,
         "language": "JavaScript",
         "url": "https://github.com/maillab/cloud-mail",
         "homepage": "https://skymail.ink",
@@ -238,7 +238,7 @@
           "mail"
         ],
         "pushed_at": "2026-08-09T21:43:29Z",
-        "updated_at": "2026-08-12T18:11:15Z",
+        "updated_at": "2026-08-13T18:08:54Z",
         "starred_at": "2026-03-02T05:13:26Z"
       },
       "summary": {
@@ -264,13 +264,13 @@
         "name": "ghostty",
         "owner": "ghostty-org",
         "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
-        "stars": 59559,
+        "stars": 59604,
         "language": "Zig",
         "url": "https://github.com/ghostty-org/ghostty",
         "homepage": "https://ghostty.org",
         "topics": [],
-        "pushed_at": "2026-08-12T19:08:55Z",
-        "updated_at": "2026-08-12T19:10:24Z",
+        "pushed_at": "2026-08-13T19:12:51Z",
+        "updated_at": "2026-08-13T18:55:25Z",
         "starred_at": "2026-03-02T02:47:40Z"
       },
       "summary": {
@@ -386,7 +386,7 @@
         "url": "https://github.com/iblogc/GithubStarsIndex",
         "homepage": "https://stars.iblogc.com",
         "topics": [],
-        "pushed_at": "2026-08-11T19:21:56Z",
+        "pushed_at": "2026-08-12T19:26:36Z",
         "updated_at": "2026-08-10T20:23:59Z",
         "starred_at": "2026-02-27T03:30:45Z"
       },
@@ -413,13 +413,13 @@
         "name": "MacCalendar",
         "owner": "bylinxx",
         "description": "完全免费&开源的小而美 macOS 菜单栏日历App(带小组件)，支持中国农历、节假日、放假安排、系统日程、个性化配置等",
-        "stars": 832,
+        "stars": 833,
         "language": "Swift",
         "url": "https://github.com/bylinxx/MacCalendar",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-08-04T13:01:03Z",
-        "updated_at": "2026-08-12T08:28:08Z",
+        "updated_at": "2026-08-13T09:27:38Z",
         "starred_at": "2026-02-23T02:32:13Z"
       },
       "summary": {
@@ -477,7 +477,7 @@
         "name": "oneterm",
         "owner": "veops",
         "description": "Provide secure access and control over all infrastructure",
-        "stars": 1718,
+        "stars": 1721,
         "language": "Go",
         "url": "https://github.com/veops/oneterm",
         "homepage": "https://www.v1ops.com",
@@ -492,7 +492,7 @@
           "vue"
         ],
         "pushed_at": "2026-02-03T09:28:49Z",
-        "updated_at": "2026-08-11T13:55:11Z",
+        "updated_at": "2026-08-13T12:36:01Z",
         "starred_at": "2026-02-26T08:12:28Z"
       },
       "summary": {
@@ -518,13 +518,13 @@
         "name": "termora",
         "owner": "TermoraDev",
         "description": "Termora is a terminal emulator and SSH client for Windows, macOS and Linux.",
-        "stars": 3784,
+        "stars": 3787,
         "language": "Kotlin",
         "url": "https://github.com/TermoraDev/termora",
         "homepage": "https://termora.app",
         "topics": [],
         "pushed_at": "2026-08-07T03:01:08Z",
-        "updated_at": "2026-08-12T15:44:59Z",
+        "updated_at": "2026-08-13T07:23:46Z",
         "starred_at": "2026-02-26T02:09:26Z"
       },
       "summary": {
@@ -624,7 +624,7 @@
         "name": "go-bindata",
         "owner": "go-bindata",
         "description": "Turn data file into go code.",
-        "stars": 1912,
+        "stars": 1911,
         "language": "Go",
         "url": "https://github.com/go-bindata/go-bindata",
         "homepage": "",
@@ -634,7 +634,7 @@
           "golang"
         ],
         "pushed_at": "2024-07-13T06:20:02Z",
-        "updated_at": "2026-08-01T08:27:17Z",
+        "updated_at": "2026-08-13T07:25:47Z",
         "starred_at": "2026-02-12T06:36:21Z"
       },
       "summary": {
@@ -660,7 +660,7 @@
         "name": "zsh-autosuggestions",
         "owner": "zsh-users",
         "description": "Fish-like autosuggestions for zsh",
-        "stars": 35966,
+        "stars": 35967,
         "language": "Shell",
         "url": "https://github.com/zsh-users/zsh-autosuggestions",
         "homepage": "",
@@ -673,7 +673,7 @@
           "zsh-autosuggestions"
         ],
         "pushed_at": "2025-06-24T16:15:03Z",
-        "updated_at": "2026-08-12T18:21:51Z",
+        "updated_at": "2026-08-13T09:55:06Z",
         "starred_at": "2026-02-06T08:15:01Z"
       },
       "summary": {
@@ -699,13 +699,13 @@
         "name": "btop",
         "owner": "aristocratos",
         "description": "A monitor of resources",
-        "stars": 33958,
+        "stars": 33970,
         "language": "C++",
         "url": "https://github.com/aristocratos/btop",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-08-08T19:49:45Z",
-        "updated_at": "2026-08-12T14:36:23Z",
+        "updated_at": "2026-08-13T19:04:27Z",
         "starred_at": "2026-02-12T09:33:20Z"
       },
       "summary": {
@@ -731,7 +731,7 @@
         "name": "sqlc",
         "owner": "sqlc-dev",
         "description": "Generate type-safe code from SQL",
-        "stars": 18159,
+        "stars": 18165,
         "language": "Go",
         "url": "https://github.com/sqlc-dev/sqlc",
         "homepage": "https://sqlc.dev",
@@ -747,7 +747,7 @@
           "sqlite"
         ],
         "pushed_at": "2026-08-12T10:04:11Z",
-        "updated_at": "2026-08-12T19:24:10Z",
+        "updated_at": "2026-08-13T16:00:07Z",
         "starred_at": "2026-02-06T01:52:16Z"
       },
       "summary": {
@@ -773,7 +773,7 @@
         "name": "Easydict",
         "owner": "tisfeng",
         "description": "一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. ",
-        "stars": 14201,
+        "stars": 14209,
         "language": "Swift",
         "url": "https://github.com/tisfeng/Easydict",
         "homepage": "",
@@ -795,7 +795,7 @@
           "youdao"
         ],
         "pushed_at": "2026-08-12T15:58:34Z",
-        "updated_at": "2026-08-12T18:15:08Z",
+        "updated_at": "2026-08-13T14:44:35Z",
         "starred_at": "2026-02-05T05:25:53Z"
       },
       "summary": {
@@ -821,7 +821,7 @@
         "name": "LLPlayer",
         "owner": "umlx5h",
         "description": "The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!",
-        "stars": 4021,
+        "stars": 4026,
         "language": "C#",
         "url": "https://github.com/umlx5h/LLPlayer",
         "homepage": "https://llplayer.com",
@@ -842,7 +842,7 @@
           "yt-dlp"
         ],
         "pushed_at": "2026-07-19T12:20:10Z",
-        "updated_at": "2026-08-12T16:22:17Z",
+        "updated_at": "2026-08-13T18:37:37Z",
         "starred_at": "2026-01-30T07:24:43Z"
       },
       "summary": {
@@ -868,13 +868,13 @@
         "name": "dockerman.app",
         "owner": "ZingerLittleBee",
         "description": "A modern, lightweight Docker management UI built with Tauri and React. Focus on simplicity and performance for Docker container management.",
-        "stars": 334,
+        "stars": 333,
         "language": "MDX",
         "url": "https://github.com/ZingerLittleBee/dockerman.app",
         "homepage": "https://dockerman.app",
         "topics": [],
         "pushed_at": "2026-08-01T18:44:02Z",
-        "updated_at": "2026-08-12T17:17:24Z",
+        "updated_at": "2026-08-13T13:58:40Z",
         "starred_at": "2026-01-30T07:18:43Z"
       },
       "summary": {
@@ -902,7 +902,7 @@
         "name": "Mate-Engine",
         "owner": "shinyflvre",
         "description": "A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.",
-        "stars": 3527,
+        "stars": 3530,
         "language": "ShaderLab",
         "url": "https://github.com/shinyflvre/Mate-Engine",
         "homepage": "https://store.steampowered.com/app/3625270/MateEngine/",
@@ -915,7 +915,7 @@
           "pet"
         ],
         "pushed_at": "2026-01-20T18:46:07Z",
-        "updated_at": "2026-08-12T08:57:36Z",
+        "updated_at": "2026-08-13T19:22:53Z",
         "starred_at": "2026-01-22T08:27:32Z"
       },
       "summary": {
@@ -941,7 +941,7 @@
         "name": "lima",
         "owner": "lima-vm",
         "description": "Linux virtual machines, with a focus on running containers",
-        "stars": 21670,
+        "stars": 21673,
         "language": "Go",
         "url": "https://github.com/lima-vm/lima",
         "homepage": "https://lima-vm.io/",
@@ -952,8 +952,8 @@
           "qemu",
           "vm"
         ],
-        "pushed_at": "2026-08-12T14:42:43Z",
-        "updated_at": "2026-08-12T16:16:59Z",
+        "pushed_at": "2026-08-13T01:46:03Z",
+        "updated_at": "2026-08-13T17:12:47Z",
         "starred_at": "2026-01-26T01:28:07Z"
       },
       "summary": {
@@ -1017,7 +1017,7 @@
         "name": "sun-panel",
         "owner": "hslr-s",
         "description": "A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。",
-        "stars": 5266,
+        "stars": 5267,
         "language": "Vue",
         "url": "https://github.com/hslr-s/sun-panel",
         "homepage": "http://doc.sun-panel.top",
@@ -1036,7 +1036,7 @@
           "vue3"
         ],
         "pushed_at": "2025-12-31T03:35:38Z",
-        "updated_at": "2026-08-12T05:36:34Z",
+        "updated_at": "2026-08-13T17:29:59Z",
         "starred_at": "2026-01-17T12:01:55Z"
       },
       "summary": {
@@ -1062,7 +1062,7 @@
         "name": "server",
         "owner": "nextcloud",
         "description": "☁️ Nextcloud server, a safe home for all your data",
-        "stars": 36404,
+        "stars": 36416,
         "language": "PHP",
         "url": "https://github.com/nextcloud/server",
         "homepage": "https://nextcloud.com",
@@ -1088,8 +1088,8 @@
           "usability",
           "ux"
         ],
-        "pushed_at": "2026-08-12T19:06:05Z",
-        "updated_at": "2026-08-12T19:21:32Z",
+        "pushed_at": "2026-08-13T18:56:04Z",
+        "updated_at": "2026-08-13T18:01:50Z",
         "starred_at": "2026-01-17T11:58:54Z"
       },
       "summary": {
@@ -1115,13 +1115,13 @@
         "name": "yacd",
         "owner": "haishanh",
         "description": "Yet Another Clash Dashboard",
-        "stars": 4836,
+        "stars": 4835,
         "language": "TypeScript",
         "url": "https://github.com/haishanh/yacd",
         "homepage": "http://yacd.haishan.me",
         "topics": [],
         "pushed_at": "2024-02-08T19:21:29Z",
-        "updated_at": "2026-08-12T09:31:01Z",
+        "updated_at": "2026-08-13T09:51:49Z",
         "starred_at": "2026-01-17T11:56:38Z"
       },
       "summary": {
@@ -1147,13 +1147,13 @@
         "name": "dnf",
         "owner": "1995chen",
         "description": "",
-        "stars": 2182,
+        "stars": 2185,
         "language": "Shell",
         "url": "https://github.com/1995chen/dnf",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-07-11T07:22:05Z",
-        "updated_at": "2026-08-12T08:48:20Z",
+        "updated_at": "2026-08-13T06:07:32Z",
         "starred_at": "2026-01-17T10:50:48Z"
       },
       "summary": {
@@ -1211,7 +1211,7 @@
         "name": "NoteDiscovery",
         "owner": "gamosoft",
         "description": "Your Self-Hosted Knowledge Base",
-        "stars": 2741,
+        "stars": 2742,
         "language": "JavaScript",
         "url": "https://github.com/gamosoft/NoteDiscovery",
         "homepage": "https://www.notediscovery.com",
@@ -1236,8 +1236,8 @@
           "self-hosted",
           "zettelkasten"
         ],
-        "pushed_at": "2026-08-12T07:52:38Z",
-        "updated_at": "2026-08-12T12:19:57Z",
+        "pushed_at": "2026-08-13T07:53:22Z",
+        "updated_at": "2026-08-13T13:51:22Z",
         "starred_at": "2026-01-16T01:13:40Z"
       },
       "summary": {
@@ -1263,7 +1263,7 @@
         "name": "awesome-go",
         "owner": "avelino",
         "description": "A curated list of awesome Go frameworks, libraries and software",
-        "stars": 180892,
+        "stars": 180973,
         "language": "Go",
         "url": "https://github.com/avelino/awesome-go",
         "homepage": "https://awesome-go.com",
@@ -1275,8 +1275,8 @@
           "golang-library",
           "hacktoberfest"
         ],
-        "pushed_at": "2026-08-11T21:38:50Z",
-        "updated_at": "2026-08-12T19:24:54Z",
+        "pushed_at": "2026-08-13T13:50:42Z",
+        "updated_at": "2026-08-13T19:10:03Z",
         "starred_at": "2026-01-14T06:56:18Z"
       },
       "summary": {
@@ -1384,7 +1384,7 @@
         "name": "Mole",
         "owner": "tw93",
         "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
-        "stars": 63270,
+        "stars": 63423,
         "language": "Shell",
         "url": "https://github.com/tw93/Mole",
         "homepage": "https://mole.fit",
@@ -1406,7 +1406,7 @@
           "uninstall"
         ],
         "pushed_at": "2026-08-10T18:18:10Z",
-        "updated_at": "2026-08-12T19:17:24Z",
+        "updated_at": "2026-08-13T19:20:08Z",
         "starred_at": "2026-01-07T09:55:15Z"
       },
       "summary": {
@@ -1432,13 +1432,13 @@
         "name": "icloud_photos_downloader",
         "owner": "icloud-photos-downloader",
         "description": "A command-line tool to download photos from iCloud",
-        "stars": 12160,
+        "stars": 12161,
         "language": "Python",
         "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-05-30T21:47:25Z",
-        "updated_at": "2026-08-12T15:23:47Z",
+        "updated_at": "2026-08-13T12:54:25Z",
         "starred_at": "2026-01-12T01:16:58Z"
       },
       "summary": {
@@ -1464,13 +1464,13 @@
         "name": "TaskExplorer",
         "owner": "DavidXanatos",
         "description": "Power full Task Manager",
-        "stars": 3718,
+        "stars": 3717,
         "language": "C",
         "url": "https://github.com/DavidXanatos/TaskExplorer",
         "homepage": "https://xanasoft.com/",
         "topics": [],
         "pushed_at": "2026-07-26T18:49:26Z",
-        "updated_at": "2026-08-12T17:32:15Z",
+        "updated_at": "2026-08-13T07:41:54Z",
         "starred_at": "2026-01-05T01:35:49Z"
       },
       "summary": {
@@ -1496,7 +1496,7 @@
         "name": "CrystalDiskInfo",
         "owner": "hiyohiyo",
         "description": "CrystalDiskInfo",
-        "stars": 3244,
+        "stars": 3245,
         "language": "C++",
         "url": "https://github.com/hiyohiyo/CrystalDiskInfo",
         "homepage": "https://github.com/hiyohiyo/CrystalDiskInfo",
@@ -1508,7 +1508,7 @@
           "ssd"
         ],
         "pushed_at": "2026-07-25T00:24:20Z",
-        "updated_at": "2026-08-12T08:57:35Z",
+        "updated_at": "2026-08-12T21:34:02Z",
         "starred_at": "2026-01-02T12:01:34Z"
       },
       "summary": {
@@ -1534,7 +1534,7 @@
         "name": "Ventoy",
         "owner": "ventoy",
         "description": "A new bootable USB solution.",
-        "stars": 78676,
+        "stars": 78699,
         "language": "C",
         "url": "https://github.com/ventoy/Ventoy",
         "homepage": "https://www.ventoy.net",
@@ -1559,7 +1559,7 @@
           "x86-64"
         ],
         "pushed_at": "2026-08-06T04:51:23Z",
-        "updated_at": "2026-08-12T18:14:29Z",
+        "updated_at": "2026-08-13T18:57:57Z",
         "starred_at": "2026-01-02T11:57:12Z"
       },
       "summary": {
@@ -1585,7 +1585,7 @@
         "name": "build-your-own-x",
         "owner": "codecrafters-io",
         "description": "Master programming by recreating your favorite technologies from scratch.",
-        "stars": 539086,
+        "stars": 539416,
         "language": "Markdown",
         "url": "https://github.com/codecrafters-io/build-your-own-x",
         "homepage": "https://codecrafters.io",
@@ -1598,7 +1598,7 @@
           "tutorials"
         ],
         "pushed_at": "2026-07-14T19:25:58Z",
-        "updated_at": "2026-08-12T19:23:11Z",
+        "updated_at": "2026-08-13T19:20:45Z",
         "starred_at": "2026-01-02T07:40:26Z"
       },
       "summary": {
@@ -1624,7 +1624,7 @@
         "name": "zap",
         "owner": "uber-go",
         "description": "Blazing fast, structured, leveled logging in Go.",
-        "stars": 24651,
+        "stars": 24654,
         "language": "Go",
         "url": "https://github.com/uber-go/zap",
         "homepage": "https://pkg.go.dev/go.uber.org/zap",
@@ -1635,7 +1635,7 @@
           "zap"
         ],
         "pushed_at": "2026-08-05T23:33:47Z",
-        "updated_at": "2026-08-12T18:40:06Z",
+        "updated_at": "2026-08-13T18:15:01Z",
         "starred_at": "2025-12-30T03:20:03Z"
       },
       "summary": {
@@ -1693,7 +1693,7 @@
         "name": "LiteMonitor",
         "owner": "Diorser",
         "description": "一款轻量级、高度可定制的 Windows桌面和任务栏硬件性能监控工具，支持监测 CPU、GPU、内存、磁盘、网速、FPS 计数、插件扩展及内存清理。A lightweight, customizable hardware monitor for the Windows desktop & taskbar. Features CPU/GPU/RAM/Network monitoring, FPS counter, plugin support, and memory optimization.",
-        "stars": 6019,
+        "stars": 6031,
         "language": "C#",
         "url": "https://github.com/Diorser/LiteMonitor",
         "homepage": "https://litemonitor.cn",
@@ -1711,7 +1711,7 @@
           "windows"
         ],
         "pushed_at": "2026-05-15T22:33:12Z",
-        "updated_at": "2026-08-12T15:38:52Z",
+        "updated_at": "2026-08-13T15:03:31Z",
         "starred_at": "2025-12-27T07:32:24Z"
       },
       "summary": {
@@ -1737,7 +1737,7 @@
         "name": "fluentui-system-icons",
         "owner": "microsoft",
         "description": "Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.",
-        "stars": 10770,
+        "stars": 10772,
         "language": "HTML",
         "url": "https://github.com/microsoft/fluentui-system-icons",
         "homepage": "https://aka.ms/fluentui-system-icons",
@@ -1750,8 +1750,8 @@
           "ios",
           "react"
         ],
-        "pushed_at": "2026-08-12T17:22:58Z",
-        "updated_at": "2026-08-12T17:07:26Z",
+        "pushed_at": "2026-08-13T19:02:05Z",
+        "updated_at": "2026-08-13T18:46:17Z",
         "starred_at": "2025-12-26T09:47:37Z"
       },
       "summary": {
@@ -1815,13 +1815,13 @@
         "name": "sshfs",
         "owner": "libfuse",
         "description": "A network filesystem client to connect to SSH servers",
-        "stars": 7605,
+        "stars": 7610,
         "language": "C",
         "url": "https://github.com/libfuse/sshfs",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-08-08T10:13:13Z",
-        "updated_at": "2026-08-12T17:23:27Z",
+        "updated_at": "2026-08-13T15:06:21Z",
         "starred_at": "2025-12-22T02:18:09Z"
       },
       "summary": {
@@ -1847,7 +1847,7 @@
         "name": "fastfetch",
         "owner": "fastfetch-cli",
         "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
-        "stars": 24173,
+        "stars": 24190,
         "language": "C",
         "url": "https://github.com/fastfetch-cli/fastfetch",
         "homepage": "",
@@ -1863,8 +1863,8 @@
           "terminal",
           "winfetch"
         ],
-        "pushed_at": "2026-08-12T05:58:10Z",
-        "updated_at": "2026-08-12T18:41:19Z",
+        "pushed_at": "2026-08-13T10:43:44Z",
+        "updated_at": "2026-08-13T17:42:50Z",
         "starred_at": "2025-12-19T08:15:18Z"
       },
       "summary": {
@@ -1890,7 +1890,7 @@
         "name": "stats",
         "owner": "exelban",
         "description": "macOS system monitor in your menu bar",
-        "stars": 41142,
+        "stars": 41172,
         "language": "Swift",
         "url": "https://github.com/exelban/stats",
         "homepage": "https://mac-stats.com",
@@ -1910,8 +1910,8 @@
           "stats",
           "temperature"
         ],
-        "pushed_at": "2026-08-12T16:36:02Z",
-        "updated_at": "2026-08-12T18:28:00Z",
+        "pushed_at": "2026-08-13T15:06:13Z",
+        "updated_at": "2026-08-13T19:21:40Z",
         "starred_at": "2025-12-19T05:16:44Z"
       },
       "summary": {
@@ -1937,13 +1937,13 @@
         "name": "Pearcleaner",
         "owner": "alienator88",
         "description": "A free, source-available and fair-code licensed mac app cleaner",
-        "stars": 14304,
+        "stars": 14313,
         "language": "Swift",
         "url": "https://github.com/alienator88/Pearcleaner",
         "homepage": "https://itsalin.com/appInfo/?id=pearcleaner",
         "topics": [],
         "pushed_at": "2026-06-22T18:49:18Z",
-        "updated_at": "2026-08-12T18:30:47Z",
+        "updated_at": "2026-08-13T16:44:52Z",
         "starred_at": "2025-12-19T08:40:51Z"
       },
       "summary": {
@@ -2041,7 +2041,7 @@
         "name": "duplicati",
         "owner": "duplicati",
         "description": "Store securely encrypted backups in the cloud!",
-        "stars": 14881,
+        "stars": 14882,
         "language": "C#",
         "url": "https://github.com/duplicati/duplicati",
         "homepage": "",
@@ -2058,8 +2058,8 @@
           "trust-no-one-backup",
           "webdav"
         ],
-        "pushed_at": "2026-08-12T15:47:53Z",
-        "updated_at": "2026-08-12T17:19:07Z",
+        "pushed_at": "2026-08-13T14:53:02Z",
+        "updated_at": "2026-08-13T14:54:44Z",
         "starred_at": "2025-12-15T08:20:34Z"
       },
       "summary": {
@@ -2091,7 +2091,7 @@
         "homepage": "http://flymd.llingfei.com/",
         "topics": [],
         "pushed_at": "2026-07-22T02:35:52Z",
-        "updated_at": "2026-08-12T14:33:25Z",
+        "updated_at": "2026-08-13T10:33:37Z",
         "starred_at": "2025-12-15T03:36:43Z"
       },
       "summary": {
@@ -2132,8 +2132,8 @@
           "multi-cluster",
           "prometheus"
         ],
-        "pushed_at": "2026-08-12T02:26:45Z",
-        "updated_at": "2026-08-12T06:58:50Z",
+        "pushed_at": "2026-08-13T15:50:40Z",
+        "updated_at": "2026-08-13T15:51:34Z",
         "starred_at": "2025-12-08T01:01:21Z"
       },
       "summary": {
@@ -2206,7 +2206,7 @@
         "name": "sshpilot",
         "owner": "mfat",
         "description": "User-friendly, cross-platform SSH connection manager",
-        "stars": 1010,
+        "stars": 1009,
         "language": "Python",
         "url": "https://github.com/mfat/sshpilot",
         "homepage": "https://sshpilot.app",
@@ -2218,8 +2218,8 @@
           "ssh-tunnel",
           "terminal"
         ],
-        "pushed_at": "2026-08-12T15:34:51Z",
-        "updated_at": "2026-08-12T06:49:10Z",
+        "pushed_at": "2026-08-13T15:56:54Z",
+        "updated_at": "2026-08-13T11:16:46Z",
         "starred_at": "2025-12-05T05:13:17Z"
       },
       "summary": {
@@ -2245,7 +2245,7 @@
         "name": "freelens",
         "owner": "freelensapp",
         "description": "Free IDE for Kubernetes",
-        "stars": 5379,
+        "stars": 5381,
         "language": "TypeScript",
         "url": "https://github.com/freelensapp/freelens",
         "homepage": "https://freelens.app",
@@ -2257,8 +2257,8 @@
           "kubernetes-dashboard",
           "kubernetes-ui"
         ],
-        "pushed_at": "2026-08-12T14:02:53Z",
-        "updated_at": "2026-08-12T15:23:09Z",
+        "pushed_at": "2026-08-13T07:51:34Z",
+        "updated_at": "2026-08-13T15:14:17Z",
         "starred_at": "2025-11-25T08:40:06Z"
       },
       "summary": {
@@ -2284,7 +2284,7 @@
         "name": "ArchiveBox",
         "owner": "ArchiveBox",
         "description": "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
-        "stars": 28107,
+        "stars": 28110,
         "language": "Python",
         "url": "https://github.com/ArchiveBox/ArchiveBox",
         "homepage": "https://archivebox.io",
@@ -2310,8 +2310,8 @@
           "wget",
           "youtube-dl"
         ],
-        "pushed_at": "2026-08-12T19:22:16Z",
-        "updated_at": "2026-08-12T18:59:32Z",
+        "pushed_at": "2026-08-13T19:15:59Z",
+        "updated_at": "2026-08-13T19:16:00Z",
         "starred_at": "2025-10-17T06:46:15Z"
       },
       "summary": {
@@ -2337,13 +2337,13 @@
         "name": "docker-static-website",
         "owner": "lipanski",
         "description": "A very small Docker image (~80KB) to run any static website",
-        "stars": 997,
+        "stars": 998,
         "language": "Dockerfile",
         "url": "https://github.com/lipanski/docker-static-website",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-08-05T12:16:58Z",
-        "updated_at": "2026-08-06T12:27:24Z",
+        "updated_at": "2026-08-13T17:32:28Z",
         "starred_at": "2025-10-10T05:20:18Z"
       },
       "summary": {
@@ -2369,7 +2369,7 @@
         "name": "podman-desktop",
         "owner": "podman-desktop",
         "description": "Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.",
-        "stars": 7924,
+        "stars": 7925,
         "language": "TypeScript",
         "url": "https://github.com/podman-desktop/podman-desktop",
         "homepage": "https://podman-desktop.io",
@@ -2385,8 +2385,8 @@
           "tray-application",
           "ui"
         ],
-        "pushed_at": "2026-08-12T12:37:41Z",
-        "updated_at": "2026-08-12T19:11:42Z",
+        "pushed_at": "2026-08-13T07:49:55Z",
+        "updated_at": "2026-08-13T13:34:55Z",
         "starred_at": "2025-10-10T05:19:18Z"
       },
       "summary": {
@@ -2412,7 +2412,7 @@
         "name": "rustnet",
         "owner": "domcyrus",
         "description": "Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.",
-        "stars": 4845,
+        "stars": 4848,
         "language": "Rust",
         "url": "https://github.com/domcyrus/rustnet",
         "homepage": "https://github.com/domcyrus/rustnet#quick-start",
@@ -2435,8 +2435,8 @@
           "tui",
           "windows"
         ],
-        "pushed_at": "2026-08-12T19:16:54Z",
-        "updated_at": "2026-08-12T09:21:22Z",
+        "pushed_at": "2026-08-13T11:55:25Z",
+        "updated_at": "2026-08-13T13:44:49Z",
         "starred_at": "2025-09-26T00:53:39Z"
       },
       "summary": {
@@ -2462,7 +2462,7 @@
         "name": "bili-sync",
         "owner": "amtoaer",
         "description": "由 Rust & Tokio 驱动的哔哩哔哩同步工具",
-        "stars": 2544,
+        "stars": 2545,
         "language": "Rust",
         "url": "https://github.com/amtoaer/bili-sync",
         "homepage": "https://bili-sync.amto.cc",
@@ -2475,7 +2475,7 @@
           "nas"
         ],
         "pushed_at": "2026-07-13T06:53:31Z",
-        "updated_at": "2026-08-11T15:47:38Z",
+        "updated_at": "2026-08-13T12:24:17Z",
         "starred_at": "2025-10-08T05:10:19Z"
       },
       "summary": {
@@ -2518,7 +2518,7 @@
           "sre"
         ],
         "pushed_at": "2026-05-17T11:12:05Z",
-        "updated_at": "2026-08-12T08:19:15Z",
+        "updated_at": "2026-08-13T15:06:27Z",
         "starred_at": "2025-09-23T01:31:34Z"
       },
       "summary": {
@@ -2582,7 +2582,7 @@
         "name": "UniGetUI",
         "owner": "Devolutions",
         "description": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
-        "stars": 25499,
+        "stars": 25522,
         "language": "C#",
         "url": "https://github.com/Devolutions/UniGetUI",
         "homepage": "https://devolutions.net/unigetui/",
@@ -2600,8 +2600,8 @@
           "windows-11",
           "winget"
         ],
-        "pushed_at": "2026-08-10T17:40:04Z",
-        "updated_at": "2026-08-12T17:53:45Z",
+        "pushed_at": "2026-08-13T18:12:55Z",
+        "updated_at": "2026-08-13T18:43:26Z",
         "starred_at": "2025-09-19T01:50:52Z"
       },
       "summary": {
@@ -2627,7 +2627,7 @@
         "name": "awesome-mac",
         "owner": "jaywcjlove",
         "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
-        "stars": 110795,
+        "stars": 110917,
         "language": "Swift",
         "url": "https://github.com/jaywcjlove/awesome-mac",
         "homepage": "https://git.io/macx",
@@ -2653,7 +2653,7 @@
           "software"
         ],
         "pushed_at": "2026-08-11T17:44:47Z",
-        "updated_at": "2026-08-12T19:13:13Z",
+        "updated_at": "2026-08-13T19:23:12Z",
         "starred_at": "2025-09-18T09:48:06Z"
       },
       "summary": {
@@ -2679,7 +2679,7 @@
         "name": "hiddify-app",
         "owner": "hiddify",
         "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
-        "stars": 32019,
+        "stars": 32051,
         "language": "Dart",
         "url": "https://github.com/hiddify/hiddify-app",
         "homepage": "https://hiddify.com",
@@ -2704,7 +2704,7 @@
           "xray"
         ],
         "pushed_at": "2026-08-10T17:43:24Z",
-        "updated_at": "2026-08-12T18:44:57Z",
+        "updated_at": "2026-08-13T18:42:27Z",
         "starred_at": "2025-09-11T01:31:32Z"
       },
       "summary": {
@@ -2730,7 +2730,7 @@
         "name": "brew",
         "owner": "Homebrew",
         "description": "🍺 The Package Manager for Everywhere",
-        "stars": 49137,
+        "stars": 49146,
         "language": "Ruby",
         "url": "https://github.com/Homebrew/brew",
         "homepage": "https://brew.sh",
@@ -2741,8 +2741,8 @@
           "package-manager",
           "ruby"
         ],
-        "pushed_at": "2026-08-12T16:44:55Z",
-        "updated_at": "2026-08-12T17:03:04Z",
+        "pushed_at": "2026-08-13T19:20:09Z",
+        "updated_at": "2026-08-13T19:01:40Z",
         "starred_at": "2025-09-08T08:36:07Z"
       },
       "summary": {
@@ -2768,7 +2768,7 @@
         "name": "SafeLine",
         "owner": "chaitin",
         "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
-        "stars": 22352,
+        "stars": 22355,
         "language": "Go",
         "url": "https://github.com/chaitin/SafeLine",
         "homepage": "https://ly.safepoint.cloud/fUxS0GW",
@@ -2795,7 +2795,7 @@
           "xss"
         ],
         "pushed_at": "2026-07-31T09:43:17Z",
-        "updated_at": "2026-08-12T17:08:41Z",
+        "updated_at": "2026-08-13T14:52:21Z",
         "starred_at": "2025-09-03T02:43:44Z"
       },
       "summary": {
@@ -2821,13 +2821,13 @@
         "name": "go-retry",
         "owner": "sethvargo",
         "description": "Go library for retrying with configurable backoffs",
-        "stars": 712,
+        "stars": 711,
         "language": "Go",
         "url": "https://github.com/sethvargo/go-retry",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-07-17T18:33:43Z",
-        "updated_at": "2026-07-28T12:58:35Z",
+        "updated_at": "2026-08-13T07:28:43Z",
         "starred_at": "2025-08-28T06:46:21Z"
       },
       "summary": {
@@ -2861,7 +2861,7 @@
           "golang"
         ],
         "pushed_at": "2026-06-30T15:26:08Z",
-        "updated_at": "2026-08-10T16:56:49Z",
+        "updated_at": "2026-08-13T12:34:55Z",
         "starred_at": "2025-08-11T07:14:16Z"
       },
       "summary": {
@@ -2887,7 +2887,7 @@
         "name": "DevToys",
         "owner": "DevToys-app",
         "description": "A Swiss Army knife for developers.",
-        "stars": 31854,
+        "stars": 31856,
         "language": "C#",
         "url": "https://github.com/DevToys-app/DevToys",
         "homepage": "https://devtoys.app/",
@@ -2913,7 +2913,7 @@
           "winui"
         ],
         "pushed_at": "2026-02-25T11:53:38Z",
-        "updated_at": "2026-08-12T10:36:22Z",
+        "updated_at": "2026-08-13T07:55:38Z",
         "starred_at": "2025-08-16T12:49:40Z"
       },
       "summary": {
@@ -2939,7 +2939,7 @@
         "name": "How-To-Secure-A-Linux-Server",
         "owner": "imthenachoman",
         "description": "An evolving how-to guide for securing a Linux server.",
-        "stars": 30268,
+        "stars": 30275,
         "language": "N/A",
         "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
         "homepage": "",
@@ -2954,7 +2954,7 @@
           "server"
         ],
         "pushed_at": "2026-07-13T18:25:52Z",
-        "updated_at": "2026-08-12T16:35:20Z",
+        "updated_at": "2026-08-13T18:41:08Z",
         "starred_at": "2025-08-08T02:13:23Z"
       },
       "summary": {
@@ -2980,7 +2980,7 @@
         "name": "Termix",
         "owner": "Termix-SSH",
         "description": "Self-hosted SSH and remote desktop management.",
-        "stars": 14726,
+        "stars": 14734,
         "language": "TypeScript",
         "url": "https://github.com/Termix-SSH/Termix",
         "homepage": "https://termix.site/",
@@ -2997,8 +2997,8 @@
           "termix",
           "vnc"
         ],
-        "pushed_at": "2026-08-12T17:35:36Z",
-        "updated_at": "2026-08-12T16:50:25Z",
+        "pushed_at": "2026-08-13T06:57:46Z",
+        "updated_at": "2026-08-13T19:18:01Z",
         "starred_at": "2025-08-08T02:10:34Z"
       },
       "summary": {
@@ -3100,7 +3100,7 @@
         "name": "BetterDisplay",
         "owner": "waydabber",
         "description": "Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!",
-        "stars": 33132,
+        "stars": 33147,
         "language": "N/A",
         "url": "https://github.com/waydabber/BetterDisplay",
         "homepage": "https://betterdisplay.pro",
@@ -3124,7 +3124,7 @@
           "xdr"
         ],
         "pushed_at": "2026-08-11T17:42:33Z",
-        "updated_at": "2026-08-12T18:14:48Z",
+        "updated_at": "2026-08-13T17:36:20Z",
         "starred_at": "2025-07-30T01:46:53Z"
       },
       "summary": {
@@ -3150,7 +3150,7 @@
         "name": "blog_os",
         "owner": "phil-opp",
         "description": "Writing an OS in Rust",
-        "stars": 17648,
+        "stars": 17653,
         "language": "HTML",
         "url": "https://github.com/phil-opp/blog_os",
         "homepage": "http://os.phil-opp.com",
@@ -3161,7 +3161,7 @@
           "x86-64"
         ],
         "pushed_at": "2026-08-07T16:50:50Z",
-        "updated_at": "2026-08-12T15:58:51Z",
+        "updated_at": "2026-08-13T16:21:25Z",
         "starred_at": "2025-07-31T01:45:46Z"
       },
       "summary": {
@@ -3187,7 +3187,7 @@
         "name": "kubeconform",
         "owner": "yannh",
         "description": "A FAST Kubernetes manifests validator, with support for Custom Resources!",
-        "stars": 3142,
+        "stars": 3146,
         "language": "Go",
         "url": "https://github.com/yannh/kubeconform",
         "homepage": "",
@@ -3197,7 +3197,7 @@
           "validation"
         ],
         "pushed_at": "2026-06-13T11:53:23Z",
-        "updated_at": "2026-08-11T18:38:36Z",
+        "updated_at": "2026-08-13T18:13:37Z",
         "starred_at": "2025-07-21T02:55:36Z"
       },
       "summary": {
@@ -3223,7 +3223,7 @@
         "name": "syncthing",
         "owner": "syncthing",
         "description": "Open Source Continuous File Synchronization",
-        "stars": 87604,
+        "stars": 87647,
         "language": "Go",
         "url": "https://github.com/syncthing/syncthing",
         "homepage": "https://syncthing.net/",
@@ -3233,8 +3233,8 @@
           "peer-to-peer",
           "synchronization"
         ],
-        "pushed_at": "2026-08-12T01:30:56Z",
-        "updated_at": "2026-08-12T19:21:03Z",
+        "pushed_at": "2026-08-12T21:08:02Z",
+        "updated_at": "2026-08-13T19:05:28Z",
         "starred_at": "2025-07-09T02:12:07Z"
       },
       "summary": {
@@ -3260,7 +3260,7 @@
         "name": "sniffnet",
         "owner": "GyulyVGC",
         "description": "Comfortably monitor your network traffic 🕵️‍♂️",
-        "stars": 40518,
+        "stars": 40527,
         "language": "Rust",
         "url": "https://github.com/GyulyVGC/sniffnet",
         "homepage": "https://sniffnet.app",
@@ -3286,7 +3286,7 @@
           "windows"
         ],
         "pushed_at": "2026-08-12T18:16:53Z",
-        "updated_at": "2026-08-12T18:32:24Z",
+        "updated_at": "2026-08-13T19:13:05Z",
         "starred_at": "2025-07-04T03:16:11Z"
       },
       "summary": {
@@ -3326,7 +3326,7 @@
           "rust",
           "vpn"
         ],
-        "pushed_at": "2026-08-11T20:51:59Z",
+        "pushed_at": "2026-08-12T20:10:08Z",
         "updated_at": "2026-08-12T06:12:27Z",
         "starred_at": "2025-07-07T03:06:28Z"
       },
@@ -3353,7 +3353,7 @@
         "name": "kargo",
         "owner": "akuity",
         "description": "Application lifecycle orchestration",
-        "stars": 3562,
+        "stars": 3570,
         "language": "Go",
         "url": "https://github.com/akuity/kargo",
         "homepage": "https://kargo.io/",
@@ -3367,8 +3367,8 @@
           "kubernetes",
           "promotions"
         ],
-        "pushed_at": "2026-08-12T16:45:37Z",
-        "updated_at": "2026-08-12T17:56:35Z",
+        "pushed_at": "2026-08-13T18:52:41Z",
+        "updated_at": "2026-08-13T19:07:29Z",
         "starred_at": "2025-07-04T02:34:58Z"
       },
       "summary": {
@@ -3394,7 +3394,7 @@
         "name": "defaults",
         "owner": "creasty",
         "description": "Initialize structs with default values",
-        "stars": 862,
+        "stars": 860,
         "language": "Go",
         "url": "https://github.com/creasty/defaults",
         "homepage": "",
@@ -3407,7 +3407,7 @@
           "struct"
         ],
         "pushed_at": "2026-05-15T05:53:51Z",
-        "updated_at": "2026-07-21T05:59:22Z",
+        "updated_at": "2026-08-13T07:24:47Z",
         "starred_at": "2025-07-03T02:17:06Z"
       },
       "summary": {
@@ -3433,13 +3433,13 @@
         "name": "mise",
         "owner": "jdx",
         "description": "dev tools, env vars, task runner",
-        "stars": 32324,
+        "stars": 32368,
         "language": "Rust",
         "url": "https://github.com/jdx/mise",
         "homepage": "https://mise.jdx.dev",
         "topics": [],
-        "pushed_at": "2026-08-12T16:31:16Z",
-        "updated_at": "2026-08-12T19:12:29Z",
+        "pushed_at": "2026-08-13T19:04:51Z",
+        "updated_at": "2026-08-13T18:45:05Z",
         "starred_at": "2025-06-27T01:37:39Z"
       },
       "summary": {
@@ -3465,7 +3465,7 @@
         "name": "borg",
         "owner": "borgbackup",
         "description": "Deduplicating archiver with compression and authenticated encryption.",
-        "stars": 13596,
+        "stars": 13601,
         "language": "Python",
         "url": "https://github.com/borgbackup/borg",
         "homepage": "https://www.borgbackup.org/",
@@ -3478,8 +3478,8 @@
           "python",
           "ssh"
         ],
-        "pushed_at": "2026-08-12T16:19:22Z",
-        "updated_at": "2026-08-12T16:21:23Z",
+        "pushed_at": "2026-08-13T15:12:34Z",
+        "updated_at": "2026-08-13T17:56:42Z",
         "starred_at": "2025-06-27T01:36:39Z"
       },
       "summary": {
@@ -3505,7 +3505,7 @@
         "name": "OpenList",
         "owner": "OpenListTeam",
         "description": "A new AList Fork to Anti Trust Crisis",
-        "stars": 24061,
+        "stars": 24081,
         "language": "Go",
         "url": "https://github.com/OpenListTeam/OpenList",
         "homepage": "https://doc.oplist.org",
@@ -3515,8 +3515,8 @@
           "baidupan",
           "openlist"
         ],
-        "pushed_at": "2026-08-12T05:38:13Z",
-        "updated_at": "2026-08-12T16:56:15Z",
+        "pushed_at": "2026-08-12T22:52:05Z",
+        "updated_at": "2026-08-13T18:25:27Z",
         "starred_at": "2025-06-27T01:33:37Z"
       },
       "summary": {
@@ -3542,10 +3542,10 @@
         "name": "gitstars",
         "owner": "cfour-hi",
         "description": "Github Starred Repositories Manager",
-        "stars": 1773,
+        "stars": 1772,
         "language": "Vue",
         "url": "https://github.com/cfour-hi/gitstars",
-        "homepage": "https://gitstars.cfour.top",
+        "homepage": "https://cfour-hi-gitstars.vercel.app/",
         "topics": [
           "github",
           "javascript",
@@ -3555,8 +3555,8 @@
           "topic",
           "vue"
         ],
-        "pushed_at": "2024-10-14T07:50:21Z",
-        "updated_at": "2026-08-09T07:09:56Z",
+        "pushed_at": "2026-08-13T09:30:44Z",
+        "updated_at": "2026-08-13T09:30:57Z",
         "starred_at": "2025-07-01T02:10:30Z"
       },
       "summary": {
@@ -3582,13 +3582,13 @@
         "name": "container",
         "owner": "apple",
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
-        "stars": 48902,
+        "stars": 48930,
         "language": "Swift",
         "url": "https://github.com/apple/container",
         "homepage": "https://apple.github.io/container/documentation/",
         "topics": [],
-        "pushed_at": "2026-08-12T16:39:13Z",
-        "updated_at": "2026-08-12T19:14:17Z",
+        "pushed_at": "2026-08-13T04:00:44Z",
+        "updated_at": "2026-08-13T19:10:58Z",
         "starred_at": "2025-06-10T02:41:05Z"
       },
       "summary": {
@@ -3614,7 +3614,7 @@
         "name": "blinko",
         "owner": "blinkospace",
         "description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
-        "stars": 10860,
+        "stars": 10866,
         "language": "TypeScript",
         "url": "https://github.com/blinkospace/blinko",
         "homepage": "https://blinko.space",
@@ -3629,7 +3629,7 @@
           "self-hosted"
         ],
         "pushed_at": "2026-08-03T14:17:57Z",
-        "updated_at": "2026-08-12T18:38:59Z",
+        "updated_at": "2026-08-13T13:03:18Z",
         "starred_at": "2025-06-04T03:21:06Z"
       },
       "summary": {
@@ -3655,7 +3655,7 @@
         "name": "server",
         "owner": "gotify",
         "description": "A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)",
-        "stars": 15708,
+        "stars": 15716,
         "language": "Go",
         "url": "https://github.com/gotify/server",
         "homepage": "https://gotify.net",
@@ -3674,8 +3674,8 @@
           "self-hosting",
           "selfhosted"
         ],
-        "pushed_at": "2026-08-12T09:59:18Z",
-        "updated_at": "2026-08-12T16:35:26Z",
+        "pushed_at": "2026-08-13T19:12:43Z",
+        "updated_at": "2026-08-13T19:13:44Z",
         "starred_at": "2025-05-28T01:27:18Z"
       },
       "summary": {
@@ -3711,7 +3711,7 @@
           "tutorial"
         ],
         "pushed_at": "2025-12-22T18:14:43Z",
-        "updated_at": "2026-08-12T02:45:38Z",
+        "updated_at": "2026-08-13T16:35:28Z",
         "starred_at": "2025-05-28T01:22:42Z"
       },
       "summary": {
@@ -3737,7 +3737,7 @@
         "name": "openresty-manager",
         "owner": "Safe3",
         "description": "Modern, secure, and elegant server control panel, alternative to OpenResty Edge and Nginx Proxy Manager.",
-        "stars": 1439,
+        "stars": 1441,
         "language": "Go",
         "url": "https://github.com/Safe3/openresty-manager",
         "homepage": "https://om.uusec.com",
@@ -3764,7 +3764,7 @@
           "webmin"
         ],
         "pushed_at": "2026-08-11T14:37:48Z",
-        "updated_at": "2026-08-12T16:23:05Z",
+        "updated_at": "2026-08-13T18:25:27Z",
         "starred_at": "2025-05-23T08:15:38Z"
       },
       "summary": {
@@ -3790,7 +3790,7 @@
         "name": "json-to-go",
         "owner": "mholt",
         "description": "Translates JSON into a Go type in your browser instantly (original)",
-        "stars": 4627,
+        "stars": 4625,
         "language": "JavaScript",
         "url": "https://github.com/mholt/json-to-go",
         "homepage": "https://mholt.github.io/json-to-go/",
@@ -3801,7 +3801,7 @@
           "translates-json"
         ],
         "pushed_at": "2024-07-31T15:59:24Z",
-        "updated_at": "2026-08-09T14:32:20Z",
+        "updated_at": "2026-08-13T12:33:19Z",
         "starred_at": "2025-05-23T03:38:12Z"
       },
       "summary": {
@@ -3827,7 +3827,7 @@
         "name": "NTrace-core",
         "owner": "nxtrace",
         "description": "NextTrace, an open source visual route tracking CLI tool",
-        "stars": 8094,
+        "stars": 8095,
         "language": "Go",
         "url": "https://github.com/nxtrace/NTrace-core",
         "homepage": "https://www.nxtrace.org",
@@ -3844,8 +3844,8 @@
           "traceroute",
           "utility"
         ],
-        "pushed_at": "2026-08-02T18:45:16Z",
-        "updated_at": "2026-08-12T14:24:56Z",
+        "pushed_at": "2026-08-13T01:30:42Z",
+        "updated_at": "2026-08-13T13:43:11Z",
         "starred_at": "2025-05-08T09:34:04Z"
       },
       "summary": {
@@ -3871,7 +3871,7 @@
         "name": "homepage",
         "owner": "gethomepage",
         "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
-        "stars": 31969,
+        "stars": 31982,
         "language": "JavaScript",
         "url": "https://github.com/gethomepage/homepage",
         "homepage": "https://gethomepage.dev",
@@ -3884,8 +3884,8 @@
           "self-hosted",
           "startpage"
         ],
-        "pushed_at": "2026-08-12T12:23:43Z",
-        "updated_at": "2026-08-12T18:50:45Z",
+        "pushed_at": "2026-08-13T16:48:43Z",
+        "updated_at": "2026-08-13T19:20:00Z",
         "starred_at": "2025-05-08T09:56:41Z"
       },
       "summary": {
@@ -3957,7 +3957,7 @@
         "name": "markitdown",
         "owner": "microsoft",
         "description": "Python tool for converting files and office documents to Markdown.",
-        "stars": 173361,
+        "stars": 173558,
         "language": "Python",
         "url": "https://github.com/microsoft/markitdown",
         "homepage": "",
@@ -3971,7 +3971,7 @@
           "pdf"
         ],
         "pushed_at": "2026-07-29T18:18:09Z",
-        "updated_at": "2026-08-12T19:25:13Z",
+        "updated_at": "2026-08-13T19:07:34Z",
         "starred_at": "2025-05-08T09:09:03Z"
       },
       "summary": {
@@ -3997,7 +3997,7 @@
         "name": "note-gen",
         "owner": "codexu",
         "description": "Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.",
-        "stars": 12608,
+        "stars": 12612,
         "language": "TypeScript",
         "url": "https://github.com/codexu/note-gen",
         "homepage": "https://notegen.top",
@@ -4020,7 +4020,7 @@
           "webdav"
         ],
         "pushed_at": "2026-08-12T04:24:41Z",
-        "updated_at": "2026-08-12T18:11:50Z",
+        "updated_at": "2026-08-13T10:00:06Z",
         "starred_at": "2025-04-30T07:00:39Z"
       },
       "summary": {
@@ -4046,7 +4046,7 @@
         "name": "slidev",
         "owner": "slidevjs",
         "description": "Presentation Slides for Developers",
-        "stars": 48062,
+        "stars": 48078,
         "language": "TypeScript",
         "url": "https://github.com/slidevjs/slidev",
         "homepage": "https://sli.dev",
@@ -4059,7 +4059,7 @@
           "vueuse"
         ],
         "pushed_at": "2026-08-11T04:51:57Z",
-        "updated_at": "2026-08-12T17:57:00Z",
+        "updated_at": "2026-08-13T15:59:03Z",
         "starred_at": "2025-04-28T07:49:57Z"
       },
       "summary": {
@@ -4087,7 +4087,7 @@
         "name": "apollo",
         "owner": "apolloconfig",
         "description": "Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.",
-        "stars": 29806,
+        "stars": 29804,
         "language": "Java",
         "url": "https://github.com/apolloconfig/apollo",
         "homepage": "https://www.apolloconfig.com",
@@ -4100,7 +4100,7 @@
           "spring-cloud"
         ],
         "pushed_at": "2026-08-02T06:57:44Z",
-        "updated_at": "2026-08-12T11:39:49Z",
+        "updated_at": "2026-08-13T11:37:11Z",
         "starred_at": "2025-04-17T03:35:02Z"
       },
       "summary": {
@@ -4126,13 +4126,13 @@
         "name": "docker-kms",
         "owner": "11notes",
         "description": "Activate any version of Windows and Office, forever",
-        "stars": 2257,
+        "stars": 2258,
         "language": "Dockerfile",
         "url": "https://github.com/11notes/docker-kms",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-10-23T05:06:46Z",
-        "updated_at": "2026-08-12T16:18:04Z",
+        "updated_at": "2026-08-13T04:42:32Z",
         "starred_at": "2025-04-15T01:18:43Z"
       },
       "summary": {
@@ -4158,7 +4158,7 @@
         "name": "k3s",
         "owner": "k3s-io",
         "description": "Lightweight Kubernetes",
-        "stars": 33726,
+        "stars": 33729,
         "language": "Go",
         "url": "https://github.com/k3s-io/k3s",
         "homepage": "https://k3s.io",
@@ -4167,7 +4167,7 @@
           "kubernetes"
         ],
         "pushed_at": "2026-08-12T18:31:50Z",
-        "updated_at": "2026-08-12T17:37:52Z",
+        "updated_at": "2026-08-13T13:35:04Z",
         "starred_at": "2025-04-02T02:47:01Z"
       },
       "summary": {
@@ -4193,7 +4193,7 @@
         "name": "maily.to",
         "owner": "arikchakma",
         "description": "Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients.",
-        "stars": 3883,
+        "stars": 3884,
         "language": "TypeScript",
         "url": "https://github.com/arikchakma/maily.to",
         "homepage": "https://maily.to",
@@ -4207,7 +4207,7 @@
           "wysiwyg"
         ],
         "pushed_at": "2026-07-21T08:40:39Z",
-        "updated_at": "2026-08-11T08:19:44Z",
+        "updated_at": "2026-08-12T20:12:40Z",
         "starred_at": "2025-03-31T02:35:35Z"
       },
       "summary": {
@@ -4233,7 +4233,7 @@
         "name": "ZeroOmega",
         "owner": "zero-peak",
         "description": "Manage and switch between multiple proxies quickly & easily.",
-        "stars": 7797,
+        "stars": 7799,
         "language": "CoffeeScript",
         "url": "https://github.com/zero-peak/ZeroOmega",
         "homepage": "",
@@ -4243,7 +4243,7 @@
           "zeroomega"
         ],
         "pushed_at": "2026-05-23T02:29:30Z",
-        "updated_at": "2026-08-12T10:23:06Z",
+        "updated_at": "2026-08-13T12:41:22Z",
         "starred_at": "2025-03-20T02:57:44Z"
       },
       "summary": {
@@ -4269,7 +4269,7 @@
         "name": "maple-font",
         "owner": "subframe7536",
         "description": "Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项",
-        "stars": 28108,
+        "stars": 28141,
         "language": "Python",
         "url": "https://github.com/subframe7536/maple-font",
         "homepage": "https://font.subf.dev",
@@ -4286,8 +4286,8 @@
           "typography",
           "variable-font"
         ],
-        "pushed_at": "2026-08-12T09:36:06Z",
-        "updated_at": "2026-08-12T17:31:42Z",
+        "pushed_at": "2026-08-13T13:32:30Z",
+        "updated_at": "2026-08-13T18:18:59Z",
         "starred_at": "2025-03-17T03:39:29Z"
       },
       "summary": {
@@ -4359,13 +4359,13 @@
         "name": "WSL",
         "owner": "microsoft",
         "description": "Windows Subsystem for Linux",
-        "stars": 33377,
+        "stars": 33391,
         "language": "C++",
         "url": "https://github.com/microsoft/WSL",
         "homepage": "https://wsl.dev/",
         "topics": [],
-        "pushed_at": "2026-08-12T19:20:33Z",
-        "updated_at": "2026-08-12T19:20:42Z",
+        "pushed_at": "2026-08-13T19:22:28Z",
+        "updated_at": "2026-08-13T18:08:29Z",
         "starred_at": "2025-03-14T02:54:32Z"
       },
       "summary": {
@@ -4391,7 +4391,7 @@
         "name": "browser-use",
         "owner": "browser-use",
         "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-        "stars": 108951,
+        "stars": 109111,
         "language": "Python",
         "url": "https://github.com/browser-use/browser-use",
         "homepage": "https://browser-use.com",
@@ -4404,8 +4404,8 @@
           "playwright",
           "python"
         ],
-        "pushed_at": "2026-08-11T17:33:21Z",
-        "updated_at": "2026-08-12T19:25:48Z",
+        "pushed_at": "2026-08-13T18:33:59Z",
+        "updated_at": "2026-08-13T19:20:32Z",
         "starred_at": "2025-02-24T06:12:15Z"
       },
       "summary": {
@@ -4463,13 +4463,13 @@
         "name": "timeshift",
         "owner": "linuxmint",
         "description": "System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.",
-        "stars": 4225,
+        "stars": 4227,
         "language": "Vala",
         "url": "https://github.com/linuxmint/timeshift",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-04-08T17:44:08Z",
-        "updated_at": "2026-08-12T14:03:31Z",
+        "updated_at": "2026-08-13T16:48:36Z",
         "starred_at": "2025-02-14T08:23:24Z"
       },
       "summary": {
@@ -4495,7 +4495,7 @@
         "name": "shadPS4",
         "owner": "shadps4-emu",
         "description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++",
-        "stars": 32459,
+        "stars": 32471,
         "language": "C++",
         "url": "https://github.com/shadps4-emu/shadPS4",
         "homepage": "https://shadps4.net/",
@@ -4513,8 +4513,8 @@
           "vulkan",
           "windows"
         ],
-        "pushed_at": "2026-08-12T19:17:00Z",
-        "updated_at": "2026-08-12T19:17:08Z",
+        "pushed_at": "2026-08-13T19:08:40Z",
+        "updated_at": "2026-08-13T19:09:15Z",
         "starred_at": "2025-02-11T08:22:22Z"
       },
       "summary": {
@@ -4546,7 +4546,7 @@
         "homepage": "https://www.agent-kernel.tech/",
         "topics": [],
         "pushed_at": "2025-12-12T01:55:18Z",
-        "updated_at": "2026-08-12T16:03:24Z",
+        "updated_at": "2026-08-13T14:23:07Z",
         "starred_at": "2025-02-05T06:13:59Z"
       },
       "summary": {
@@ -4572,7 +4572,7 @@
         "name": "chinese-poetry",
         "owner": "chinese-poetry",
         "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。",
-        "stars": 53099,
+        "stars": 53119,
         "language": "JavaScript",
         "url": "https://github.com/chinese-poetry/chinese-poetry",
         "homepage": "https://awesome-poetry.top/",
@@ -4585,7 +4585,7 @@
           "tangshi"
         ],
         "pushed_at": "2026-06-17T01:56:08Z",
-        "updated_at": "2026-08-12T17:58:54Z",
+        "updated_at": "2026-08-13T18:12:30Z",
         "starred_at": "2025-01-24T09:33:40Z"
       },
       "summary": {
@@ -4611,7 +4611,7 @@
         "name": "ruff",
         "owner": "astral-sh",
         "description": "An extremely fast Python linter and code formatter, written in Rust.",
-        "stars": 49166,
+        "stars": 49187,
         "language": "Rust",
         "url": "https://github.com/astral-sh/ruff",
         "homepage": "https://docs.astral.sh/ruff",
@@ -4628,8 +4628,8 @@
           "style-guide",
           "styleguide"
         ],
-        "pushed_at": "2026-08-12T19:11:02Z",
-        "updated_at": "2026-08-12T18:49:15Z",
+        "pushed_at": "2026-08-13T19:17:37Z",
+        "updated_at": "2026-08-13T19:18:15Z",
         "starred_at": "2025-01-21T06:06:18Z"
       },
       "summary": {
@@ -4655,7 +4655,7 @@
         "name": "PDFMathTranslate",
         "owner": "PDFMathTranslate",
         "description": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero",
-        "stars": 36120,
+        "stars": 36148,
         "language": "Python",
         "url": "https://github.com/PDFMathTranslate/PDFMathTranslate",
         "homepage": "https://pdf2zh.com",
@@ -4681,7 +4681,7 @@
           "zotero"
         ],
         "pushed_at": "2026-05-25T19:00:26Z",
-        "updated_at": "2026-08-12T18:11:20Z",
+        "updated_at": "2026-08-13T17:47:00Z",
         "starred_at": "2025-01-20T07:26:36Z"
       },
       "summary": {
@@ -4707,7 +4707,7 @@
         "name": "mermaid",
         "owner": "mermaid-js",
         "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
-        "stars": 89711,
+        "stars": 89742,
         "language": "TypeScript",
         "url": "https://github.com/mermaid-js/mermaid",
         "homepage": "https://mermaid.ai/open-source/",
@@ -4721,8 +4721,8 @@
           "typescript",
           "uml-diagrams"
         ],
-        "pushed_at": "2026-08-12T15:22:10Z",
-        "updated_at": "2026-08-12T19:10:50Z",
+        "pushed_at": "2026-08-13T05:43:04Z",
+        "updated_at": "2026-08-13T18:37:44Z",
         "starred_at": "2025-01-15T01:51:40Z"
       },
       "summary": {
@@ -4790,7 +4790,7 @@
         "name": "frpc-desktop",
         "owner": "luckjiawei",
         "description": "Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!",
-        "stars": 6828,
+        "stars": 6829,
         "language": "TypeScript",
         "url": "https://github.com/luckjiawei/frpc-desktop",
         "homepage": "https://jwinks.com/p/frp/",
@@ -4810,7 +4810,7 @@
           "vue"
         ],
         "pushed_at": "2026-08-10T06:44:18Z",
-        "updated_at": "2026-08-12T16:45:00Z",
+        "updated_at": "2026-08-13T16:01:37Z",
         "starred_at": "2024-12-25T01:46:30Z"
       },
       "summary": {
@@ -4836,7 +4836,7 @@
         "name": "macos",
         "owner": "dockur",
         "description": "MacOS inside a Docker container.",
-        "stars": 21383,
+        "stars": 21395,
         "language": "Shell",
         "url": "https://github.com/dockur/macos",
         "homepage": "",
@@ -4853,7 +4853,7 @@
           "virtualization"
         ],
         "pushed_at": "2026-08-11T15:48:13Z",
-        "updated_at": "2026-08-12T18:24:19Z",
+        "updated_at": "2026-08-13T14:56:26Z",
         "starred_at": "2024-12-16T09:37:56Z"
       },
       "summary": {
@@ -4879,7 +4879,7 @@
         "name": "terraform",
         "owner": "hashicorp",
         "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-        "stars": 49482,
+        "stars": 49496,
         "language": "Go",
         "url": "https://github.com/hashicorp/terraform",
         "homepage": "http://developer.hashicorp.com/terraform",
@@ -4890,8 +4890,8 @@
           "infrastructure-as-code",
           "terraform"
         ],
-        "pushed_at": "2026-08-12T18:33:21Z",
-        "updated_at": "2026-08-12T17:57:22Z",
+        "pushed_at": "2026-08-13T17:48:08Z",
+        "updated_at": "2026-08-13T19:22:34Z",
         "starred_at": "2024-12-02T10:00:43Z"
       },
       "summary": {
@@ -4917,7 +4917,7 @@
         "name": "OliveTin",
         "owner": "OliveTin",
         "description": "OliveTin gives safe and simple access to predefined shell commands from a web interface. ",
-        "stars": 3750,
+        "stars": 3751,
         "language": "Go",
         "url": "https://github.com/OliveTin/OliveTin",
         "homepage": "https://olivetin.app",
@@ -4932,7 +4932,7 @@
           "sysadmin"
         ],
         "pushed_at": "2026-08-11T13:17:17Z",
-        "updated_at": "2026-08-12T15:28:47Z",
+        "updated_at": "2026-08-13T18:12:10Z",
         "starred_at": "2024-11-29T05:45:15Z"
       },
       "summary": {
@@ -4958,13 +4958,13 @@
         "name": "kubernetes-the-hard-way",
         "owner": "kelseyhightower",
         "description": "Bootstrap Kubernetes the hard way. No scripts.",
-        "stars": 49439,
+        "stars": 49443,
         "language": "N/A",
         "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-04-10T06:11:47Z",
-        "updated_at": "2026-08-12T19:01:51Z",
+        "updated_at": "2026-08-13T16:22:43Z",
         "starred_at": "2024-11-13T09:20:57Z"
       },
       "summary": {
@@ -4990,7 +4990,7 @@
         "name": "hugo-PaperMod",
         "owner": "adityatelange",
         "description": " A fast, clean, responsive Hugo theme.",
-        "stars": 13841,
+        "stars": 13843,
         "language": "HTML",
         "url": "https://github.com/adityatelange/hugo-PaperMod",
         "homepage": "https://adityatelange.github.io/hugo-PaperMod/",
@@ -5013,7 +5013,7 @@
           "well-documented"
         ],
         "pushed_at": "2026-08-02T18:00:13Z",
-        "updated_at": "2026-08-12T17:29:42Z",
+        "updated_at": "2026-08-13T16:35:22Z",
         "starred_at": "2024-11-12T01:47:11Z"
       },
       "summary": {
@@ -5077,7 +5077,7 @@
         "name": "kruise",
         "owner": "openkruise",
         "description": "Automated management of large-scale applications on Kubernetes (incubating project under CNCF)",
-        "stars": 5314,
+        "stars": 5316,
         "language": "Go",
         "url": "https://github.com/openkruise/kruise",
         "homepage": "https://openkruise.io",
@@ -5094,7 +5094,7 @@
           "workloads"
         ],
         "pushed_at": "2026-08-10T10:00:46Z",
-        "updated_at": "2026-08-12T16:29:57Z",
+        "updated_at": "2026-08-13T09:51:40Z",
         "starred_at": "2024-11-04T02:17:16Z"
       },
       "summary": {
@@ -5157,7 +5157,7 @@
         "name": "beszel",
         "owner": "henrygd",
         "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
-        "stars": 24212,
+        "stars": 24234,
         "language": "Go",
         "url": "https://github.com/henrygd/beszel",
         "homepage": "https://beszel.dev",
@@ -5167,7 +5167,7 @@
           "self-hosted"
         ],
         "pushed_at": "2026-08-11T22:10:37Z",
-        "updated_at": "2026-08-12T19:22:42Z",
+        "updated_at": "2026-08-13T17:55:46Z",
         "starred_at": "2024-10-28T01:50:14Z"
       },
       "summary": {
@@ -5245,7 +5245,7 @@
         "name": "aria2",
         "owner": "aria2",
         "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
-        "stars": 41706,
+        "stars": 41709,
         "language": "C++",
         "url": "https://github.com/aria2/aria2",
         "homepage": "https://aria2.github.io/",
@@ -5260,7 +5260,7 @@
           "sftp"
         ],
         "pushed_at": "2026-06-25T14:49:35Z",
-        "updated_at": "2026-08-12T17:30:34Z",
+        "updated_at": "2026-08-13T18:29:50Z",
         "starred_at": "2024-10-28T01:39:25Z"
       },
       "summary": {
@@ -5286,7 +5286,7 @@
         "name": "resty",
         "owner": "go-resty",
         "description": "Simple HTTP, REST, and SSE client library for Go",
-        "stars": 11750,
+        "stars": 11749,
         "language": "Go",
         "url": "https://github.com/go-resty/resty",
         "homepage": "https://resty.dev",
@@ -5313,7 +5313,7 @@
           "sse-client"
         ],
         "pushed_at": "2026-07-26T00:45:12Z",
-        "updated_at": "2026-08-12T04:10:32Z",
+        "updated_at": "2026-08-13T07:22:58Z",
         "starred_at": "2024-10-24T07:15:15Z"
       },
       "summary": {
@@ -5339,13 +5339,13 @@
         "name": "viper",
         "owner": "spf13",
         "description": "Go configuration with fangs",
-        "stars": 30429,
+        "stars": 30427,
         "language": "Go",
         "url": "https://github.com/spf13/viper",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-01-12T21:42:47Z",
-        "updated_at": "2026-08-12T14:00:17Z",
+        "updated_at": "2026-08-13T15:06:53Z",
         "starred_at": "2024-10-24T03:35:04Z"
       },
       "summary": {
@@ -5403,7 +5403,7 @@
         "name": "guide",
         "owner": "uber-go",
         "description": "The Uber Go Style Guide.",
-        "stars": 17657,
+        "stars": 17659,
         "language": "Makefile",
         "url": "https://github.com/uber-go/guide",
         "homepage": "",
@@ -5414,7 +5414,7 @@
           "style-guide"
         ],
         "pushed_at": "2026-04-15T15:10:48Z",
-        "updated_at": "2026-08-12T10:18:33Z",
+        "updated_at": "2026-08-13T14:14:04Z",
         "starred_at": "2024-10-07T01:06:45Z"
       },
       "summary": {
@@ -5440,7 +5440,7 @@
         "name": "cobra",
         "owner": "spf13",
         "description": "A Commander for modern Go CLI interactions",
-        "stars": 44452,
+        "stars": 44458,
         "language": "Go",
         "url": "https://github.com/spf13/cobra",
         "homepage": "https://cobra.dev",
@@ -5463,7 +5463,7 @@
           "subcommands"
         ],
         "pushed_at": "2026-07-11T00:43:07Z",
-        "updated_at": "2026-08-12T18:44:01Z",
+        "updated_at": "2026-08-13T18:14:07Z",
         "starred_at": "2024-09-27T08:13:05Z"
       },
       "summary": {
@@ -5510,8 +5510,8 @@
           "rest-api",
           "web"
         ],
-        "pushed_at": "2026-08-12T15:15:41Z",
-        "updated_at": "2026-08-12T18:44:00Z",
+        "pushed_at": "2026-08-13T13:48:03Z",
+        "updated_at": "2026-08-13T18:09:21Z",
         "starred_at": "2024-09-27T07:34:38Z"
       },
       "summary": {
@@ -5537,7 +5537,7 @@
         "name": "WatchYourLAN",
         "owner": "aceberg",
         "description": "Lightweight network IP scanner written in Go. With notifications, history, export to Grafana",
-        "stars": 7513,
+        "stars": 7518,
         "language": "Go",
         "url": "https://github.com/aceberg/WatchYourLAN",
         "homepage": "https://hub.docker.com/r/aceberg/watchyourlan",
@@ -5551,7 +5551,7 @@
           "selfhosted"
         ],
         "pushed_at": "2025-09-10T12:08:09Z",
-        "updated_at": "2026-08-12T15:42:21Z",
+        "updated_at": "2026-08-13T14:33:50Z",
         "starred_at": "2024-09-20T05:45:26Z"
       },
       "summary": {
@@ -5577,7 +5577,7 @@
         "name": "project-layout",
         "owner": "golang-standards",
         "description": "Standard Go Project Layout",
-        "stars": 56448,
+        "stars": 56454,
         "language": "Makefile",
         "url": "https://github.com/golang-standards/project-layout",
         "homepage": "",
@@ -5589,7 +5589,7 @@
           "standards"
         ],
         "pushed_at": "2026-04-28T17:18:05Z",
-        "updated_at": "2026-08-12T15:49:17Z",
+        "updated_at": "2026-08-13T17:10:56Z",
         "starred_at": "2024-09-12T10:04:31Z"
       },
       "summary": {
@@ -5664,7 +5664,7 @@
         "name": "reactive-resume",
         "owner": "amruthpillai",
         "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
-        "stars": 40311,
+        "stars": 40337,
         "language": "TypeScript",
         "url": "https://github.com/amruthpillai/reactive-resume",
         "homepage": "https://rxresu.me",
@@ -5678,8 +5678,8 @@
           "tailwindcss",
           "tanstack-start"
         ],
-        "pushed_at": "2026-08-11T08:26:04Z",
-        "updated_at": "2026-08-12T16:05:09Z",
+        "pushed_at": "2026-08-13T13:53:31Z",
+        "updated_at": "2026-08-13T18:47:50Z",
         "starred_at": "2024-08-28T02:33:53Z"
       },
       "summary": {
@@ -5705,7 +5705,7 @@
         "name": "django-rq",
         "owner": "rq",
         "description": "A simple app that provides django integration for RQ (Redis Queue)",
-        "stars": 1950,
+        "stars": 1951,
         "language": "Python",
         "url": "https://github.com/rq/django-rq",
         "homepage": "",
@@ -5719,7 +5719,7 @@
           "task-queue"
         ],
         "pushed_at": "2026-08-10T04:52:49Z",
-        "updated_at": "2026-08-10T12:39:47Z",
+        "updated_at": "2026-08-13T18:38:09Z",
         "starred_at": "2024-08-07T09:24:16Z"
       },
       "summary": {
@@ -5745,7 +5745,7 @@
         "name": "sonic",
         "owner": "bytedance",
         "description": "A blazingly fast JSON serializing & deserializing library",
-        "stars": 9572,
+        "stars": 9575,
         "language": "Go",
         "url": "https://github.com/bytedance/sonic",
         "homepage": "",
@@ -5756,7 +5756,7 @@
           "simd"
         ],
         "pushed_at": "2026-07-30T06:48:19Z",
-        "updated_at": "2026-08-12T06:41:39Z",
+        "updated_at": "2026-08-13T14:05:37Z",
         "starred_at": "2024-08-07T09:43:19Z"
       },
       "summary": {
@@ -5782,7 +5782,7 @@
         "name": "kubernetes",
         "owner": "kubernetes",
         "description": "Production-Grade Container Scheduling and Management",
-        "stars": 124461,
+        "stars": 124488,
         "language": "Go",
         "url": "https://github.com/kubernetes/kubernetes",
         "homepage": "https://kubernetes.io",
@@ -5793,7 +5793,7 @@
           "kubernetes"
         ],
         "pushed_at": "2026-08-12T12:38:12Z",
-        "updated_at": "2026-08-12T17:27:56Z",
+        "updated_at": "2026-08-13T18:30:02Z",
         "starred_at": "2024-08-05T05:41:14Z"
       },
       "summary": {
@@ -5819,7 +5819,7 @@
         "name": "uv",
         "owner": "astral-sh",
         "description": "An extremely fast Python package and project manager, written in Rust.",
-        "stars": 88684,
+        "stars": 88721,
         "language": "Rust",
         "url": "https://github.com/astral-sh/uv",
         "homepage": "https://docs.astral.sh/uv",
@@ -5829,8 +5829,8 @@
           "resolver",
           "uv"
         ],
-        "pushed_at": "2026-08-12T19:18:21Z",
-        "updated_at": "2026-08-12T19:23:47Z",
+        "pushed_at": "2026-08-13T19:15:46Z",
+        "updated_at": "2026-08-13T19:16:01Z",
         "starred_at": "2024-07-18T03:17:24Z"
       },
       "summary": {
@@ -5856,7 +5856,7 @@
         "name": "advanced-go-programming-book",
         "owner": "chai2010",
         "description": ":books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)",
-        "stars": 20083,
+        "stars": 20082,
         "language": "Go",
         "url": "https://github.com/chai2010/advanced-go-programming-book",
         "homepage": "https://chai2010.cn/advanced-go-programming-book/",
@@ -5872,7 +5872,7 @@
           "web"
         ],
         "pushed_at": "2025-10-07T01:08:59Z",
-        "updated_at": "2026-08-12T10:40:39Z",
+        "updated_at": "2026-08-13T07:25:34Z",
         "starred_at": "2024-07-01T02:52:12Z"
       },
       "summary": {
@@ -5913,8 +5913,8 @@
           "environment-manager",
           "zadig"
         ],
-        "pushed_at": "2026-08-12T08:32:42Z",
-        "updated_at": "2026-08-12T07:36:25Z",
+        "pushed_at": "2026-08-13T10:10:41Z",
+        "updated_at": "2026-08-13T06:45:31Z",
         "starred_at": "2024-06-12T05:57:31Z"
       },
       "summary": {
@@ -5940,7 +5940,7 @@
         "name": "nginx-ui",
         "owner": "0xJacky",
         "description": "Yet another WebUI for Nginx",
-        "stars": 11398,
+        "stars": 11403,
         "language": "Go",
         "url": "https://github.com/0xJacky/nginx-ui",
         "homepage": "https://nginxui.com",
@@ -5961,8 +5961,8 @@
           "webui",
           "windows"
         ],
-        "pushed_at": "2026-08-12T13:48:10Z",
-        "updated_at": "2026-08-12T17:10:40Z",
+        "pushed_at": "2026-08-13T17:57:06Z",
+        "updated_at": "2026-08-13T19:12:34Z",
         "starred_at": "2024-05-16T09:32:42Z"
       },
       "summary": {
@@ -5988,7 +5988,7 @@
         "name": "optimizer",
         "owner": "hellzerg",
         "description": "The finest Windows Optimizer",
-        "stars": 18319,
+        "stars": 18320,
         "language": "C#",
         "url": "https://github.com/hellzerg/optimizer",
         "homepage": "",
@@ -6010,7 +6010,7 @@
           "windows-tweaks"
         ],
         "pushed_at": "2026-01-20T19:04:47Z",
-        "updated_at": "2026-08-12T14:14:51Z",
+        "updated_at": "2026-08-13T18:12:02Z",
         "starred_at": "2024-05-16T09:14:57Z"
       },
       "summary": {
@@ -6042,7 +6042,7 @@
         "homepage": "",
         "topics": [],
         "pushed_at": "2024-09-12T17:46:10Z",
-        "updated_at": "2026-08-12T16:54:45Z",
+        "updated_at": "2026-08-13T12:17:56Z",
         "starred_at": "2024-05-07T01:23:25Z"
       },
       "summary": {
@@ -6068,7 +6068,7 @@
         "name": "drawdb",
         "owner": "drawdb-io",
         "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
-        "stars": 38926,
+        "stars": 39020,
         "language": "JavaScript",
         "url": "https://github.com/drawdb-io/drawdb",
         "homepage": "https://drawdb.app",
@@ -6091,8 +6091,8 @@
           "svg",
           "tailwindcss"
         ],
-        "pushed_at": "2026-08-12T19:01:54Z",
-        "updated_at": "2026-08-12T19:04:28Z",
+        "pushed_at": "2026-08-13T17:10:29Z",
+        "updated_at": "2026-08-13T19:09:09Z",
         "starred_at": "2024-04-16T01:29:17Z"
       },
       "summary": {
@@ -6176,8 +6176,8 @@
           "qt",
           "qt6"
         ],
-        "pushed_at": "2026-08-09T02:20:50Z",
-        "updated_at": "2026-08-12T14:23:04Z",
+        "pushed_at": "2026-08-12T23:19:53Z",
+        "updated_at": "2026-08-13T08:58:26Z",
         "starred_at": "2024-04-15T01:30:13Z"
       },
       "summary": {
@@ -6203,7 +6203,7 @@
         "name": "controller-runtime",
         "owner": "kubernetes-sigs",
         "description": "Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)",
-        "stars": 2939,
+        "stars": 2940,
         "language": "Go",
         "url": "https://github.com/kubernetes-sigs/controller-runtime",
         "homepage": "",
@@ -6211,7 +6211,7 @@
           "k8s-sig-api-machinery"
         ],
         "pushed_at": "2026-08-10T14:22:09Z",
-        "updated_at": "2026-08-12T09:09:47Z",
+        "updated_at": "2026-08-12T23:13:00Z",
         "starred_at": "2024-04-08T06:16:08Z"
       },
       "summary": {
@@ -6284,7 +6284,7 @@
           "podman"
         ],
         "pushed_at": "2026-08-11T08:39:15Z",
-        "updated_at": "2026-08-12T14:16:14Z",
+        "updated_at": "2026-08-13T18:34:44Z",
         "starred_at": "2024-03-28T06:57:02Z"
       },
       "summary": {
@@ -6310,7 +6310,7 @@
         "name": "rustdesk",
         "owner": "rustdesk",
         "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-        "stars": 120223,
+        "stars": 120343,
         "language": "Rust",
         "url": "https://github.com/rustdesk/rustdesk",
         "homepage": "https://rustdesk.com",
@@ -6335,8 +6335,8 @@
           "wayland",
           "windows"
         ],
-        "pushed_at": "2026-08-12T13:36:07Z",
-        "updated_at": "2026-08-12T18:12:22Z",
+        "pushed_at": "2026-08-13T12:22:41Z",
+        "updated_at": "2026-08-13T18:40:21Z",
         "starred_at": "2024-03-08T09:19:06Z"
       },
       "summary": {
@@ -6362,7 +6362,7 @@
         "name": "terminal",
         "owner": "microsoft",
         "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
-        "stars": 104584,
+        "stars": 104597,
         "language": "C++",
         "url": "https://github.com/microsoft/terminal",
         "homepage": "",
@@ -6379,8 +6379,8 @@
           "windows-terminal",
           "wsl"
         ],
-        "pushed_at": "2026-08-12T18:00:50Z",
-        "updated_at": "2026-08-12T18:18:09Z",
+        "pushed_at": "2026-08-13T17:41:48Z",
+        "updated_at": "2026-08-13T19:03:25Z",
         "starred_at": "2024-02-29T02:00:17Z"
       },
       "summary": {
@@ -6406,7 +6406,7 @@
         "name": "BewlyBewly",
         "owner": "BewlyBewly",
         "description": "Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)",
-        "stars": 8844,
+        "stars": 8842,
         "language": "Vue",
         "url": "https://github.com/BewlyBewly/BewlyBewly",
         "homepage": "https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp",
@@ -6418,7 +6418,7 @@
           "dark-theme"
         ],
         "pushed_at": "2025-02-26T04:17:04Z",
-        "updated_at": "2026-08-12T08:23:24Z",
+        "updated_at": "2026-08-13T08:56:29Z",
         "starred_at": "2024-03-15T05:13:45Z"
       },
       "summary": {
@@ -6476,7 +6476,7 @@
         "name": "jellyfin",
         "owner": "jellyfin",
         "description": "The Free Software Media System - Server Backend & API",
-        "stars": 55701,
+        "stars": 55736,
         "language": "C#",
         "url": "https://github.com/jellyfin/jellyfin",
         "homepage": "https://jellyfin.org",
@@ -6486,8 +6486,8 @@
           "hacktoberfest",
           "jellyfin"
         ],
-        "pushed_at": "2026-08-12T15:47:42Z",
-        "updated_at": "2026-08-12T19:21:25Z",
+        "pushed_at": "2026-08-13T04:04:45Z",
+        "updated_at": "2026-08-13T19:00:32Z",
         "starred_at": "2024-02-28T08:09:44Z"
       },
       "summary": {
@@ -6513,7 +6513,7 @@
         "name": "Shell",
         "owner": "moudey",
         "description": "Powerful context menu manager for Windows File Explorer",
-        "stars": 6757,
+        "stars": 6759,
         "language": "C++",
         "url": "https://github.com/moudey/Shell",
         "homepage": "https://nilesoft.org",
@@ -6525,7 +6525,7 @@
           "shell-extension"
         ],
         "pushed_at": "2026-02-09T04:35:08Z",
-        "updated_at": "2026-08-12T19:14:25Z",
+        "updated_at": "2026-08-13T13:06:09Z",
         "starred_at": "2024-02-28T05:35:13Z"
       },
       "summary": {
@@ -6551,15 +6551,15 @@
         "name": "kubebuilder",
         "owner": "kubernetes-sigs",
         "description": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
-        "stars": 9287,
+        "stars": 9288,
         "language": "Go",
         "url": "https://github.com/kubernetes-sigs/kubebuilder",
         "homepage": "http://book.kubebuilder.io",
         "topics": [
           "k8s-sig-api-machinery"
         ],
-        "pushed_at": "2026-08-11T17:49:17Z",
-        "updated_at": "2026-08-12T00:15:04Z",
+        "pushed_at": "2026-08-13T16:23:40Z",
+        "updated_at": "2026-08-13T16:23:52Z",
         "starred_at": "2024-02-23T09:01:42Z"
       },
       "summary": {
@@ -6585,13 +6585,13 @@
         "name": "TrafficMonitor",
         "owner": "zhongyang219",
         "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
-        "stars": 45694,
+        "stars": 45716,
         "language": "C++",
         "url": "https://github.com/zhongyang219/TrafficMonitor",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-07-22T03:19:43Z",
-        "updated_at": "2026-08-12T16:21:57Z",
+        "updated_at": "2026-08-13T17:59:34Z",
         "starred_at": "2024-02-19T01:42:25Z"
       },
       "summary": {
@@ -6617,7 +6617,7 @@
         "name": "virtual-dsm",
         "owner": "vdsm",
         "description": "Virtual DSM in a Docker container.",
-        "stars": 3947,
+        "stars": 3951,
         "language": "Shell",
         "url": "https://github.com/vdsm/virtual-dsm",
         "homepage": "",
@@ -6632,8 +6632,8 @@
           "synology-dsm",
           "synology-nas"
         ],
-        "pushed_at": "2026-08-11T18:08:10Z",
-        "updated_at": "2026-08-11T19:11:08Z",
+        "pushed_at": "2026-08-13T14:03:21Z",
+        "updated_at": "2026-08-13T16:05:51Z",
         "starred_at": "2024-02-17T08:39:58Z"
       },
       "summary": {
@@ -6665,7 +6665,7 @@
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-11-20T01:47:45Z",
-        "updated_at": "2026-08-12T01:15:06Z",
+        "updated_at": "2026-08-13T09:35:37Z",
         "starred_at": "2024-02-19T01:40:28Z"
       },
       "summary": {
@@ -6691,7 +6691,7 @@
         "name": "LxgwWenKai",
         "owner": "lxgw",
         "description": "An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  ",
-        "stars": 25472,
+        "stars": 25490,
         "language": "Shell",
         "url": "https://github.com/lxgw/LxgwWenKai",
         "homepage": "https://lxgw.github.io/2021/01/28/Klee-Simpchin/",
@@ -6700,8 +6700,8 @@
           "font",
           "typeface"
         ],
-        "pushed_at": "2026-07-30T16:12:17Z",
-        "updated_at": "2026-08-12T17:18:58Z",
+        "pushed_at": "2026-08-13T07:42:01Z",
+        "updated_at": "2026-08-13T16:32:02Z",
         "starred_at": "2024-02-03T04:58:08Z"
       },
       "summary": {
@@ -6727,7 +6727,7 @@
         "name": "go-ansible",
         "owner": "apenella",
         "description": "Go-ansible is a Go package that enables the execution of ansible-playbook or ansible commands directly from Golang applications. It supports a wide range of options for each command, enabling smooth integration of Ansible functionality into your projects.",
-        "stars": 1116,
+        "stars": 1117,
         "language": "Go",
         "url": "https://github.com/apenella/go-ansible",
         "homepage": "",
@@ -6738,7 +6738,7 @@
           "golang-library"
         ],
         "pushed_at": "2026-08-01T11:38:03Z",
-        "updated_at": "2026-08-10T21:48:25Z",
+        "updated_at": "2026-08-13T03:07:36Z",
         "starred_at": "2024-02-06T05:33:48Z"
       },
       "summary": {
@@ -6764,7 +6764,7 @@
         "name": "tiny-rdm",
         "owner": "tiny-craft",
         "description": "Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.",
-        "stars": 13017,
+        "stars": 13018,
         "language": "Vue",
         "url": "https://github.com/tiny-craft/tiny-rdm",
         "homepage": "https://tinyrdm.com",
@@ -6785,7 +6785,7 @@
           "web-view"
         ],
         "pushed_at": "2026-07-12T14:23:05Z",
-        "updated_at": "2026-08-12T09:38:25Z",
+        "updated_at": "2026-08-13T12:23:58Z",
         "starred_at": "2024-02-02T02:48:03Z"
       },
       "summary": {
@@ -6811,7 +6811,7 @@
         "name": "headscale",
         "owner": "juanfont",
         "description": "An open source, self-hosted implementation of the Tailscale control server",
-        "stars": 42785,
+        "stars": 42827,
         "language": "Go",
         "url": "https://github.com/juanfont/headscale",
         "homepage": "",
@@ -6822,7 +6822,7 @@
           "wireguard"
         ],
         "pushed_at": "2026-07-30T10:20:13Z",
-        "updated_at": "2026-08-12T19:00:48Z",
+        "updated_at": "2026-08-13T19:12:52Z",
         "starred_at": "2024-01-23T07:51:07Z"
       },
       "summary": {
@@ -6848,7 +6848,7 @@
         "name": "windows",
         "owner": "dockur",
         "description": "Windows inside a Docker container.",
-        "stars": 52848,
+        "stars": 52855,
         "language": "Shell",
         "url": "https://github.com/dockur/windows",
         "homepage": "",
@@ -6862,8 +6862,8 @@
           "windows-virtual-machines",
           "windows-vm"
         ],
-        "pushed_at": "2026-08-12T17:33:43Z",
-        "updated_at": "2026-08-12T18:21:30Z",
+        "pushed_at": "2026-08-13T18:41:06Z",
+        "updated_at": "2026-08-13T16:14:56Z",
         "starred_at": "2024-01-29T07:14:44Z"
       },
       "summary": {
@@ -6930,7 +6930,7 @@
         "name": "excalidraw",
         "owner": "excalidraw",
         "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-        "stars": 129441,
+        "stars": 129535,
         "language": "TypeScript",
         "url": "https://github.com/excalidraw/excalidraw",
         "homepage": "https://excalidraw.com",
@@ -6943,8 +6943,8 @@
           "productivity",
           "whiteboard"
         ],
-        "pushed_at": "2026-08-12T17:36:15Z",
-        "updated_at": "2026-08-12T19:04:43Z",
+        "pushed_at": "2026-08-13T15:55:10Z",
+        "updated_at": "2026-08-13T19:24:13Z",
         "starred_at": "2024-01-12T07:06:33Z"
       },
       "summary": {
@@ -6970,7 +6970,7 @@
         "name": "smartdns",
         "owner": "pymumu",
         "description": "A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。",
-        "stars": 11211,
+        "stars": 11218,
         "language": "C",
         "url": "https://github.com/pymumu/smartdns",
         "homepage": "https://pymumu.github.io/smartdns/",
@@ -6993,7 +6993,7 @@
           "stubby"
         ],
         "pushed_at": "2026-08-12T18:37:04Z",
-        "updated_at": "2026-08-12T14:14:52Z",
+        "updated_at": "2026-08-13T19:06:35Z",
         "starred_at": "2024-01-03T03:46:52Z"
       },
       "summary": {
@@ -7043,8 +7043,8 @@
           "saml",
           "sso"
         ],
-        "pushed_at": "2026-08-06T16:38:56Z",
-        "updated_at": "2026-08-12T10:19:22Z",
+        "pushed_at": "2026-08-13T07:16:17Z",
+        "updated_at": "2026-08-13T14:30:40Z",
         "starred_at": "2024-01-02T09:40:53Z"
       },
       "summary": {
@@ -7116,7 +7116,7 @@
         "name": "hugo-eureka",
         "owner": "wangchucheng",
         "description": "Eureka is a feature-rich and highly customizable Hugo theme.",
-        "stars": 958,
+        "stars": 957,
         "language": "HTML",
         "url": "https://github.com/wangchucheng/hugo-eureka",
         "homepage": "https://www.wangchucheng.com/en/docs/hugo-eureka/",
@@ -7132,8 +7132,8 @@
           "tailwindcss",
           "theme"
         ],
-        "pushed_at": "2026-08-12T00:45:18Z",
-        "updated_at": "2026-08-11T03:51:18Z",
+        "pushed_at": "2026-08-13T00:46:46Z",
+        "updated_at": "2026-08-13T03:25:37Z",
         "starred_at": "2023-12-23T11:52:37Z"
       },
       "summary": {
@@ -7159,7 +7159,7 @@
         "name": "netshoot",
         "owner": "nicolaka",
         "description": "a Docker + Kubernetes network trouble-shooting swiss-army container",
-        "stars": 10931,
+        "stars": 10935,
         "language": "Shell",
         "url": "https://github.com/nicolaka/netshoot",
         "homepage": "",
@@ -7172,7 +7172,7 @@
           "troubleshooting"
         ],
         "pushed_at": "2026-07-01T17:14:17Z",
-        "updated_at": "2026-08-12T08:14:58Z",
+        "updated_at": "2026-08-13T18:57:47Z",
         "starred_at": "2023-12-29T05:21:06Z"
       },
       "summary": {
@@ -7200,13 +7200,13 @@
         "name": "document-style-guide",
         "owner": "ruanyf",
         "description": "中文技术文档的写作规范",
-        "stars": 12658,
+        "stars": 12659,
         "language": "N/A",
         "url": "https://github.com/ruanyf/document-style-guide",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-12-19T11:42:17Z",
-        "updated_at": "2026-08-12T03:56:44Z",
+        "updated_at": "2026-08-13T08:02:48Z",
         "starred_at": "2023-12-21T01:56:57Z"
       },
       "summary": {
@@ -7232,7 +7232,7 @@
         "name": "Atlas",
         "owner": "Atlas-OS",
         "description": "🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.",
-        "stars": 21271,
+        "stars": 21278,
         "language": "Batchfile",
         "url": "https://github.com/Atlas-OS/Atlas",
         "homepage": "https://atlasos.net",
@@ -7253,7 +7253,7 @@
           "windows"
         ],
         "pushed_at": "2026-08-12T16:19:08Z",
-        "updated_at": "2026-08-12T18:58:37Z",
+        "updated_at": "2026-08-13T18:12:10Z",
         "starred_at": "2023-12-12T05:30:21Z"
       },
       "summary": {
@@ -7279,7 +7279,7 @@
         "name": "dockge",
         "owner": "louislam",
         "description": "A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager",
-        "stars": 24045,
+        "stars": 24050,
         "language": "TypeScript",
         "url": "https://github.com/louislam/dockge",
         "homepage": "https://dockge.kuma.pet",
@@ -7299,7 +7299,7 @@
           "websocket"
         ],
         "pushed_at": "2026-04-25T02:28:26Z",
-        "updated_at": "2026-08-12T13:13:45Z",
+        "updated_at": "2026-08-13T17:23:30Z",
         "starred_at": "2023-12-15T07:21:33Z"
       },
       "summary": {
@@ -7325,7 +7325,7 @@
         "name": "uptime-kuma",
         "owner": "louislam",
         "description": "A fancy self-hosted monitoring tool",
-        "stars": 90116,
+        "stars": 90151,
         "language": "JavaScript",
         "url": "https://github.com/louislam/uptime-kuma",
         "homepage": "https://uptime.kuma.pet",
@@ -7343,8 +7343,8 @@
           "webapp",
           "websocket"
         ],
-        "pushed_at": "2026-08-12T17:27:35Z",
-        "updated_at": "2026-08-12T19:09:16Z",
+        "pushed_at": "2026-08-13T10:53:03Z",
+        "updated_at": "2026-08-13T19:04:54Z",
         "starred_at": "2023-12-04T05:24:26Z"
       },
       "summary": {
@@ -7370,7 +7370,7 @@
         "name": "asynq",
         "owner": "hibiken",
         "description": "Simple, reliable, and efficient distributed task queue in Go",
-        "stars": 13622,
+        "stars": 13628,
         "language": "Go",
         "url": "https://github.com/hibiken/asynq",
         "homepage": "",
@@ -7384,7 +7384,7 @@
           "worker-pool"
         ],
         "pushed_at": "2026-06-22T23:22:43Z",
-        "updated_at": "2026-08-12T12:27:07Z",
+        "updated_at": "2026-08-13T18:46:46Z",
         "starred_at": "2023-09-19T02:24:26Z"
       },
       "summary": {
@@ -7410,7 +7410,7 @@
         "name": "memos",
         "owner": "usememos",
         "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.",
-        "stars": 62198,
+        "stars": 62225,
         "language": "Go",
         "url": "https://github.com/usememos/memos",
         "homepage": "https://usememos.com",
@@ -7429,8 +7429,8 @@
           "social-network",
           "sqlite"
         ],
-        "pushed_at": "2026-08-12T12:53:11Z",
-        "updated_at": "2026-08-12T18:50:39Z",
+        "pushed_at": "2026-08-13T16:10:23Z",
+        "updated_at": "2026-08-13T18:17:28Z",
         "starred_at": "2023-09-22T07:47:20Z"
       },
       "summary": {
@@ -7499,7 +7499,7 @@
         "name": "Scoop",
         "owner": "ScoopInstaller",
         "description": "A command-line installer for Windows.",
-        "stars": 24538,
+        "stars": 24544,
         "language": "PowerShell",
         "url": "https://github.com/ScoopInstaller/Scoop",
         "homepage": "https://scoop.sh",
@@ -7510,7 +7510,7 @@
           "windows"
         ],
         "pushed_at": "2026-06-13T16:17:42Z",
-        "updated_at": "2026-08-12T14:15:55Z",
+        "updated_at": "2026-08-13T15:05:41Z",
         "starred_at": "2023-08-14T09:20:10Z"
       },
       "summary": {
@@ -7536,13 +7536,13 @@
         "name": "notepad--",
         "owner": "cxasm",
         "description": "一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。",
-        "stars": 10078,
+        "stars": 10083,
         "language": "C++",
         "url": "https://github.com/cxasm/notepad--",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-08-05T10:33:41Z",
-        "updated_at": "2026-08-12T13:58:00Z",
+        "updated_at": "2026-08-13T10:08:59Z",
         "starred_at": "2023-09-08T02:36:46Z"
       },
       "summary": {
@@ -7568,7 +7568,7 @@
         "name": "yay",
         "owner": "Jguer",
         "description": "Yet another Yogurt - An AUR Helper written in Go",
-        "stars": 13679,
+        "stars": 13674,
         "language": "Go",
         "url": "https://github.com/Jguer/yay",
         "homepage": "https://jguer.github.io/yay/",
@@ -7585,8 +7585,8 @@
           "yaourt",
           "yay"
         ],
-        "pushed_at": "2026-08-12T13:25:04Z",
-        "updated_at": "2026-08-12T18:22:06Z",
+        "pushed_at": "2026-08-13T13:24:40Z",
+        "updated_at": "2026-08-13T16:00:11Z",
         "starred_at": "2023-07-13T03:07:22Z"
       },
       "summary": {
@@ -7612,7 +7612,7 @@
         "name": "traefik",
         "owner": "traefik",
         "description": "The Cloud Native Application Proxy",
-        "stars": 64431,
+        "stars": 64452,
         "language": "Go",
         "url": "https://github.com/traefik/traefik",
         "homepage": "https://traefik.io",
@@ -7632,8 +7632,8 @@
           "traefik",
           "zookeeper"
         ],
-        "pushed_at": "2026-08-12T09:40:06Z",
-        "updated_at": "2026-08-12T19:13:25Z",
+        "pushed_at": "2026-08-13T12:24:06Z",
+        "updated_at": "2026-08-13T18:34:33Z",
         "starred_at": "2023-03-18T11:01:58Z"
       },
       "summary": {
@@ -7659,7 +7659,7 @@
         "name": "awesome-selfhosted",
         "owner": "awesome-selfhosted",
         "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
-        "stars": 312231,
+        "stars": 312420,
         "language": "N/A",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
         "homepage": "https://awesome-selfhosted.net/",
@@ -7674,7 +7674,7 @@
           "selfhosted"
         ],
         "pushed_at": "2026-08-12T18:50:03Z",
-        "updated_at": "2026-08-12T19:22:48Z",
+        "updated_at": "2026-08-13T19:21:04Z",
         "starred_at": "2023-02-24T06:32:27Z"
       },
       "summary": {
@@ -7700,7 +7700,7 @@
         "name": "the-art-of-command-line",
         "owner": "jlevy",
         "description": "Master the command line, in one page",
-        "stars": 162091,
+        "stars": 162103,
         "language": "N/A",
         "url": "https://github.com/jlevy/the-art-of-command-line",
         "homepage": "",
@@ -7713,7 +7713,7 @@
           "windows"
         ],
         "pushed_at": "2024-06-25T18:13:44Z",
-        "updated_at": "2026-08-12T18:16:50Z",
+        "updated_at": "2026-08-13T17:46:01Z",
         "starred_at": "2023-01-31T08:45:57Z"
       },
       "summary": {
@@ -7739,7 +7739,7 @@
         "name": "Microsoft-Activation-Scripts",
         "owner": "massgravel",
         "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
-        "stars": 186820,
+        "stars": 186927,
         "language": "Batchfile",
         "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
         "homepage": "https://massgrave.dev",
@@ -7762,7 +7762,7 @@
           "windows-11"
         ],
         "pushed_at": "2026-07-04T16:54:38Z",
-        "updated_at": "2026-08-12T19:07:15Z",
+        "updated_at": "2026-08-13T19:10:25Z",
         "starred_at": "2023-02-03T09:36:13Z"
       },
       "summary": {
@@ -7842,7 +7842,7 @@
           "packet-loss"
         ],
         "pushed_at": "2025-03-20T15:58:13Z",
-        "updated_at": "2026-07-31T07:01:34Z",
+        "updated_at": "2026-08-13T07:22:06Z",
         "starred_at": "2022-08-01T02:13:39Z"
       },
       "summary": {
@@ -7900,7 +7900,7 @@
         "name": "gost",
         "owner": "go-gost",
         "description": "GO Simple Tunnel - a simple tunnel written in golang",
-        "stars": 7275,
+        "stars": 7286,
         "language": "Go",
         "url": "https://github.com/go-gost/gost",
         "homepage": "https://gost.run",
@@ -7927,7 +7927,7 @@
           "websocket"
         ],
         "pushed_at": "2026-08-02T15:22:11Z",
-        "updated_at": "2026-08-12T14:58:29Z",
+        "updated_at": "2026-08-13T16:29:36Z",
         "starred_at": "2022-04-26T09:00:25Z"
       },
       "summary": {
@@ -8015,7 +8015,7 @@
           "udp"
         ],
         "pushed_at": "2024-05-30T03:51:08Z",
-        "updated_at": "2026-08-12T09:05:12Z",
+        "updated_at": "2026-08-13T09:51:39Z",
         "starred_at": "2021-07-15T01:04:22Z"
       },
       "summary": {
@@ -8041,7 +8041,7 @@
         "name": "devops-exercises",
         "owner": "bregman-arie",
         "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
-        "stars": 83982,
+        "stars": 84005,
         "language": "Python",
         "url": "https://github.com/bregman-arie/devops-exercises",
         "homepage": "",
@@ -8067,7 +8067,7 @@
           "terraform"
         ],
         "pushed_at": "2025-12-27T14:22:30Z",
-        "updated_at": "2026-08-12T18:52:18Z",
+        "updated_at": "2026-08-13T17:45:53Z",
         "starred_at": "2021-07-06T06:43:44Z"
       },
       "summary": {
@@ -8092,7 +8092,7 @@
         "name": "go-leetcode",
         "owner": "austingebauer",
         "description": "A collection of 100+ popular LeetCode problems solved in Go.",
-        "stars": 1818,
+        "stars": 1817,
         "language": "Go",
         "url": "https://github.com/austingebauer/go-leetcode",
         "homepage": "",
@@ -8101,7 +8101,7 @@
           "leetcode"
         ],
         "pushed_at": "2025-01-08T05:14:49Z",
-        "updated_at": "2026-07-28T13:19:46Z",
+        "updated_at": "2026-08-13T07:28:31Z",
         "starred_at": "2021-05-26T09:31:15Z"
       },
       "summary": {
@@ -8127,7 +8127,7 @@
         "name": "frp",
         "owner": "fatedier",
         "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
-        "stars": 108758,
+        "stars": 108790,
         "language": "Go",
         "url": "https://github.com/fatedier/frp",
         "homepage": "",
@@ -8144,7 +8144,7 @@
           "tunnel"
         ],
         "pushed_at": "2026-08-12T17:12:37Z",
-        "updated_at": "2026-08-12T18:50:00Z",
+        "updated_at": "2026-08-13T18:20:37Z",
         "starred_at": "2021-06-02T11:08:00Z"
       },
       "summary": {
@@ -8170,7 +8170,7 @@
         "name": "bubbletea",
         "owner": "charmbracelet",
         "description": "A powerful little TUI framework 🏗",
-        "stars": 44324,
+        "stars": 44349,
         "language": "Go",
         "url": "https://github.com/charmbracelet/bubbletea",
         "homepage": "",
@@ -8184,8 +8184,8 @@
           "hacktoberfest",
           "tui"
         ],
-        "pushed_at": "2026-08-12T13:05:40Z",
-        "updated_at": "2026-08-12T18:48:05Z",
+        "pushed_at": "2026-08-12T20:40:50Z",
+        "updated_at": "2026-08-13T18:59:52Z",
         "starred_at": "2021-05-28T03:27:26Z"
       },
       "summary": {
@@ -8211,7 +8211,7 @@
         "name": "LeetCodeAnimation",
         "owner": "MisterBooo",
         "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com）",
-        "stars": 76715,
+        "stars": 76722,
         "language": "Java",
         "url": "https://github.com/MisterBooo/LeetCodeAnimation",
         "homepage": "https://www.algomooc.com",
@@ -8223,7 +8223,7 @@
           "leetcode-solutions"
         ],
         "pushed_at": "2026-06-12T13:49:06Z",
-        "updated_at": "2026-08-12T14:30:13Z",
+        "updated_at": "2026-08-13T18:26:41Z",
         "starred_at": "2021-05-26T09:17:03Z"
       },
       "summary": {
@@ -8249,7 +8249,7 @@
         "name": "croc",
         "owner": "schollz",
         "description": "Easily and securely send things from one computer to another :crocodile: :package:",
-        "stars": 39694,
+        "stars": 39725,
         "language": "Go",
         "url": "https://github.com/schollz/croc",
         "homepage": "https://getcroc.com",
@@ -8263,7 +8263,7 @@
           "transfer"
         ],
         "pushed_at": "2026-08-12T18:25:53Z",
-        "updated_at": "2026-08-12T18:38:22Z",
+        "updated_at": "2026-08-13T19:23:11Z",
         "starred_at": "2021-05-24T09:46:50Z"
       },
       "summary": {
@@ -8289,7 +8289,7 @@
         "name": "uber_go_guide_cn",
         "owner": "xxjwxc",
         "description": "Uber Go 语言编码规范中文版. The Uber Go Style Guide . ",
-        "stars": 8164,
+        "stars": 8163,
         "language": "N/A",
         "url": "https://github.com/xxjwxc/uber_go_guide_cn",
         "homepage": "",
@@ -8302,7 +8302,7 @@
           "uber"
         ],
         "pushed_at": "2025-06-30T08:33:41Z",
-        "updated_at": "2026-08-11T14:08:36Z",
+        "updated_at": "2026-08-13T09:22:25Z",
         "starred_at": "2021-05-11T02:29:52Z"
       },
       "summary": {
@@ -8378,7 +8378,7 @@
         "name": "one-python-craftsman",
         "owner": "piglei",
         "description": "来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。",
-        "stars": 7261,
+        "stars": 7263,
         "language": "N/A",
         "url": "https://github.com/piglei/one-python-craftsman",
         "homepage": "https://www.piglei.com",
@@ -8389,7 +8389,7 @@
           "python3"
         ],
         "pushed_at": "2024-05-16T00:19:42Z",
-        "updated_at": "2026-08-11T06:31:51Z",
+        "updated_at": "2026-08-13T14:00:30Z",
         "starred_at": "2021-03-04T07:58:30Z"
       },
       "summary": {
@@ -8415,7 +8415,7 @@
         "name": "KeymouseGo",
         "owner": "taojy123",
         "description": "类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input",
-        "stars": 10470,
+        "stars": 10473,
         "language": "Python",
         "url": "https://github.com/taojy123/KeymouseGo",
         "homepage": "http://taojy123.github.io/KeymouseGo",
@@ -8427,7 +8427,7 @@
           "simulation"
         ],
         "pushed_at": "2026-06-07T08:09:08Z",
-        "updated_at": "2026-08-12T11:57:09Z",
+        "updated_at": "2026-08-13T08:35:58Z",
         "starred_at": "2021-03-03T09:46:07Z"
       },
       "summary": {
@@ -8453,7 +8453,7 @@
         "name": "kubernetes-handbook",
         "owner": "rootsongjc",
         "description": "Kubernetes 架构与生态：从云原生到 AI 原生基础设施的构建指南",
-        "stars": 11602,
+        "stars": 11605,
         "language": "Mermaid",
         "url": "https://github.com/rootsongjc/kubernetes-handbook",
         "homepage": "https://jimmysong.io/zh/book/kubernetes-handbook",
@@ -8468,7 +8468,7 @@
           "service-mesh"
         ],
         "pushed_at": "2025-12-26T12:01:59Z",
-        "updated_at": "2026-08-12T13:15:42Z",
+        "updated_at": "2026-08-13T09:49:46Z",
         "starred_at": "2021-02-25T07:59:49Z"
       },
       "summary": {
@@ -8494,7 +8494,7 @@
         "name": "the-way-to-go_ZH_CN",
         "owner": "unknwon",
         "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
-        "stars": 35044,
+        "stars": 35041,
         "language": "Go",
         "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
         "homepage": "",
@@ -8505,7 +8505,7 @@
           "tutorial"
         ],
         "pushed_at": "2024-08-14T07:04:25Z",
-        "updated_at": "2026-08-12T12:04:16Z",
+        "updated_at": "2026-08-13T08:04:22Z",
         "starred_at": "2020-08-02T08:58:38Z"
       },
       "summary": {
@@ -8588,7 +8588,7 @@
           "udp"
         ],
         "pushed_at": "2024-12-31T13:08:51Z",
-        "updated_at": "2026-08-12T16:54:33Z",
+        "updated_at": "2026-08-13T14:15:44Z",
         "starred_at": "2019-11-20T15:05:51Z"
       },
       "summary": {
@@ -8625,7 +8625,7 @@
           "readthedocs"
         ],
         "pushed_at": "2024-07-24T09:23:14Z",
-        "updated_at": "2026-08-12T07:39:41Z",
+        "updated_at": "2026-08-13T14:16:09Z",
         "starred_at": "2018-12-20T09:35:45Z"
       },
       "summary": {
@@ -8651,7 +8651,7 @@
         "name": "chinese-dos-games",
         "owner": "rwv",
         "description": "🎮 Chinese DOS games collections.",
-        "stars": 10274,
+        "stars": 10276,
         "language": "Python",
         "url": "https://github.com/rwv/chinese-dos-games",
         "homepage": "https://dos.lol",
@@ -8660,7 +8660,7 @@
           "game"
         ],
         "pushed_at": "2024-08-07T09:52:31Z",
-        "updated_at": "2026-08-12T11:23:54Z",
+        "updated_at": "2026-08-13T09:41:19Z",
         "starred_at": "2018-09-08T17:11:16Z"
       },
       "summary": {
@@ -8686,13 +8686,13 @@
         "name": "GhostVM",
         "owner": "groundwater",
         "description": "",
-        "stars": 620,
+        "stars": 621,
         "language": "Swift",
         "url": "https://github.com/groundwater/GhostVM",
         "homepage": "https://ghostvm.org",
         "topics": [],
         "pushed_at": "2026-08-08T06:04:46Z",
-        "updated_at": "2026-08-10T15:25:57Z",
+        "updated_at": "2026-08-12T22:28:32Z",
         "starred_at": "2026-03-18T01:27:56Z"
       },
       "summary": {
@@ -8800,7 +8800,7 @@
         "name": "colima",
         "owner": "abiosoft",
         "description": "Container runtimes on macOS (and Linux) with minimal setup",
-        "stars": 30344,
+        "stars": 30351,
         "language": "Go",
         "url": "https://github.com/abiosoft/colima",
         "homepage": "https://colima.run",
@@ -8818,8 +8818,8 @@
           "macos",
           "nerdctl"
         ],
-        "pushed_at": "2026-08-08T18:07:16Z",
-        "updated_at": "2026-08-12T18:44:58Z",
+        "pushed_at": "2026-08-13T18:08:51Z",
+        "updated_at": "2026-08-13T18:32:37Z",
         "starred_at": "2026-03-19T08:59:57Z"
       },
       "summary": {
@@ -8845,7 +8845,7 @@
         "name": "orbstack",
         "owner": "orbstack",
         "description": "Fast, light, simple Docker containers & Linux machines",
-        "stars": 9179,
+        "stars": 9184,
         "language": "Shell",
         "url": "https://github.com/orbstack/orbstack",
         "homepage": "https://orbstack.dev",
@@ -8861,7 +8861,7 @@
           "virtual-machine"
         ],
         "pushed_at": "2025-08-15T13:03:07Z",
-        "updated_at": "2026-08-12T18:18:02Z",
+        "updated_at": "2026-08-13T15:27:33Z",
         "starred_at": "2026-03-23T07:05:52Z"
       },
       "summary": {
@@ -8886,13 +8886,13 @@
         "name": "mcp-go",
         "owner": "mark3labs",
         "description": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
-        "stars": 8998,
+        "stars": 9005,
         "language": "Go",
         "url": "https://github.com/mark3labs/mcp-go",
         "homepage": "http://mcp-go.dev/",
         "topics": [],
         "pushed_at": "2026-08-12T12:29:17Z",
-        "updated_at": "2026-08-12T16:26:57Z",
+        "updated_at": "2026-08-13T18:13:33Z",
         "starred_at": "2026-03-23T01:45:45Z"
       },
       "summary": {
@@ -8956,7 +8956,7 @@
         "name": "rustfs",
         "owner": "rustfs",
         "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-        "stars": 30985,
+        "stars": 31019,
         "language": "Rust",
         "url": "https://github.com/rustfs/rustfs",
         "homepage": "https://rustfs.com/download/",
@@ -8974,8 +8974,8 @@
           "rust",
           "s3"
         ],
-        "pushed_at": "2026-08-12T19:25:33Z",
-        "updated_at": "2026-08-12T19:25:46Z",
+        "pushed_at": "2026-08-13T19:15:01Z",
+        "updated_at": "2026-08-13T18:09:22Z",
         "starred_at": "2026-03-23T02:02:19Z"
       },
       "summary": {
@@ -9044,13 +9044,13 @@
         "name": "gstack",
         "owner": "garrytan",
         "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-        "stars": 127693,
+        "stars": 127842,
         "language": "TypeScript",
         "url": "https://github.com/garrytan/gstack",
         "homepage": "",
         "topics": [],
-        "pushed_at": "2026-08-12T18:12:28Z",
-        "updated_at": "2026-08-12T19:23:44Z",
+        "pushed_at": "2026-08-13T17:43:31Z",
+        "updated_at": "2026-08-13T19:21:12Z",
         "starred_at": "2026-03-30T02:50:41Z"
       },
       "summary": {
@@ -9076,15 +9076,15 @@
         "name": "skills",
         "owner": "anthropics",
         "description": "Public repository for Agent Skills",
-        "stars": 168499,
+        "stars": 168916,
         "language": "Python",
         "url": "https://github.com/anthropics/skills",
         "homepage": "",
         "topics": [
           "agent-skills"
         ],
-        "pushed_at": "2026-08-07T17:14:15Z",
-        "updated_at": "2026-08-12T19:24:57Z",
+        "pushed_at": "2026-08-13T18:09:56Z",
+        "updated_at": "2026-08-13T19:23:15Z",
         "starred_at": "2026-03-30T02:43:51Z"
       },
       "summary": {
@@ -9110,7 +9110,7 @@
         "name": "tabby",
         "owner": "Eugeny",
         "description": "A terminal for a more modern age",
-        "stars": 73892,
+        "stars": 73906,
         "language": "TypeScript",
         "url": "https://github.com/Eugeny/tabby",
         "homepage": "https://tabby.sh",
@@ -9122,7 +9122,7 @@
           "terminal-emulators"
         ],
         "pushed_at": "2026-08-12T04:03:12Z",
-        "updated_at": "2026-08-12T17:02:03Z",
+        "updated_at": "2026-08-13T18:33:00Z",
         "starred_at": "2026-03-30T08:23:05Z"
       },
       "summary": {
@@ -9148,7 +9148,7 @@
         "name": "Mouser",
         "owner": "TomBadash",
         "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
-        "stars": 5078,
+        "stars": 5081,
         "language": "Python",
         "url": "https://github.com/TomBadash/Mouser",
         "homepage": "",
@@ -9172,8 +9172,8 @@
           "productivity",
           "python"
         ],
-        "pushed_at": "2026-07-28T22:48:49Z",
-        "updated_at": "2026-08-12T15:47:23Z",
+        "pushed_at": "2026-08-13T10:09:08Z",
+        "updated_at": "2026-08-13T16:58:40Z",
         "starred_at": "2026-03-30T02:49:13Z"
       },
       "summary": {
@@ -9199,7 +9199,7 @@
         "name": "STranslate",
         "owner": "STranslate",
         "description": "A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具",
-        "stars": 7763,
+        "stars": 7773,
         "language": "C#",
         "url": "https://github.com/STranslate/STranslate",
         "homepage": "https://stranslate.zggsong.com",
@@ -9211,7 +9211,7 @@
           "wpf"
         ],
         "pushed_at": "2026-08-12T06:14:11Z",
-        "updated_at": "2026-08-12T16:55:08Z",
+        "updated_at": "2026-08-13T17:49:19Z",
         "starred_at": "2026-03-30T02:41:01Z"
       },
       "summary": {
@@ -9237,13 +9237,13 @@
         "name": "opencode",
         "owner": "anomalyco",
         "description": "The open source coding agent.",
-        "stars": 196531,
+        "stars": 197040,
         "language": "TypeScript",
         "url": "https://github.com/anomalyco/opencode",
         "homepage": "https://opencode.ai",
         "topics": [],
-        "pushed_at": "2026-08-12T19:25:16Z",
-        "updated_at": "2026-08-12T19:24:13Z",
+        "pushed_at": "2026-08-13T19:12:10Z",
+        "updated_at": "2026-08-13T19:21:54Z",
         "starred_at": "2026-03-30T01:58:22Z"
       },
       "summary": {
@@ -9269,7 +9269,7 @@
         "name": "DriverStoreExplorer",
         "owner": "lostindark",
         "description": "Driver Store Explorer",
-        "stars": 11344,
+        "stars": 11349,
         "language": "C#",
         "url": "https://github.com/lostindark/DriverStoreExplorer",
         "homepage": "",
@@ -9279,7 +9279,7 @@
           "driverstore"
         ],
         "pushed_at": "2026-08-09T21:51:33Z",
-        "updated_at": "2026-08-12T19:07:51Z",
+        "updated_at": "2026-08-13T16:55:22Z",
         "starred_at": "2026-03-30T02:39:46Z"
       },
       "summary": {
@@ -9305,7 +9305,7 @@
         "name": "oh-my-openagent",
         "owner": "code-yeongyu",
         "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode",
-        "stars": 67759,
+        "stars": 67823,
         "language": "TypeScript",
         "url": "https://github.com/code-yeongyu/oh-my-openagent",
         "homepage": "https://omo.dev",
@@ -9326,8 +9326,8 @@
           "tui",
           "typescript"
         ],
-        "pushed_at": "2026-08-12T19:24:25Z",
-        "updated_at": "2026-08-12T18:51:50Z",
+        "pushed_at": "2026-08-13T18:54:01Z",
+        "updated_at": "2026-08-13T18:44:39Z",
         "starred_at": "2026-07-31T03:43:34Z"
       },
       "summary": {
@@ -9353,7 +9353,7 @@
         "name": "MemOS",
         "owner": "MemTensor",
         "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings",
-        "stars": 10695,
+        "stars": 10708,
         "language": "TypeScript",
         "url": "https://github.com/MemTensor/MemOS",
         "homepage": "https://memos.openmem.net",
@@ -9379,8 +9379,8 @@
           "skills",
           "token-savings"
         ],
-        "pushed_at": "2026-08-12T12:28:35Z",
-        "updated_at": "2026-08-12T17:17:26Z",
+        "pushed_at": "2026-08-13T09:46:46Z",
+        "updated_at": "2026-08-13T17:45:34Z",
         "starred_at": "2026-04-03T05:12:20Z"
       },
       "summary": {
@@ -9406,7 +9406,7 @@
         "name": "sidex",
         "owner": "Sidenai",
         "description": "VS Code rebuilt on Tauri. Same architecture, 96% smaller. Early release.",
-        "stars": 2667,
+        "stars": 2675,
         "language": "TypeScript",
         "url": "https://github.com/Sidenai/sidex",
         "homepage": "https://discord.gg/8CUCnEAC4J",
@@ -9423,7 +9423,7 @@
           "vscode"
         ],
         "pushed_at": "2026-07-01T19:25:38Z",
-        "updated_at": "2026-08-12T12:28:35Z",
+        "updated_at": "2026-08-13T13:11:40Z",
         "starred_at": "2026-04-03T05:07:12Z"
       },
       "summary": {
@@ -9449,7 +9449,7 @@
         "name": "oxideterm",
         "owner": "AnalyseDeCircuit",
         "description": "AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscription.",
-        "stars": 1259,
+        "stars": 1263,
         "language": "Rust",
         "url": "https://github.com/AnalyseDeCircuit/oxideterm",
         "homepage": "https://oxideterm.app",
@@ -9474,8 +9474,8 @@
           "terminal-emulator",
           "tool-calling"
         ],
-        "pushed_at": "2026-08-12T16:01:52Z",
-        "updated_at": "2026-08-12T16:03:14Z",
+        "pushed_at": "2026-08-13T16:15:33Z",
+        "updated_at": "2026-08-13T16:15:39Z",
         "starred_at": "2026-04-03T01:38:28Z"
       },
       "summary": {
@@ -9541,7 +9541,7 @@
         "name": "qiushi-skill",
         "owner": "HughYau",
         "description": "求是Skill——从经典唯物辩证法与实践哲学中提炼出一条总原则和九大方法论工具武装AI大脑。Qiushi-Skill: Build agents that investigate first, focus on the main contradiction, validate in practice, and keep pushing until the work is actually done.",
-        "stars": 3702,
+        "stars": 3706,
         "language": "JavaScript",
         "url": "https://github.com/HughYau/qiushi-skill",
         "homepage": "http://hughyau.com/qiushi-skill/",
@@ -9552,7 +9552,7 @@
           "workflow"
         ],
         "pushed_at": "2026-07-20T19:04:56Z",
-        "updated_at": "2026-08-12T06:44:48Z",
+        "updated_at": "2026-08-13T15:51:35Z",
         "starred_at": "2026-04-08T01:53:34Z"
       },
       "summary": {
@@ -9578,7 +9578,7 @@
         "name": "superpowers",
         "owner": "obra",
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 271198,
+        "stars": 271676,
         "language": "Shell",
         "url": "https://github.com/obra/superpowers",
         "homepage": "",
@@ -9592,8 +9592,8 @@
           "subagent-driven-development",
           "superpowers"
         ],
-        "pushed_at": "2026-08-12T16:58:26Z",
-        "updated_at": "2026-08-12T19:22:44Z",
+        "pushed_at": "2026-08-13T00:36:31Z",
+        "updated_at": "2026-08-13T19:21:40Z",
         "starred_at": "2026-04-09T03:08:24Z"
       },
       "summary": {
@@ -9619,7 +9619,7 @@
         "name": "apfel",
         "owner": "Arthur-Ficial",
         "description": "The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.",
-        "stars": 6282,
+        "stars": 6284,
         "language": "Swift",
         "url": "https://github.com/Arthur-Ficial/apfel",
         "homepage": "https://apfel.franzai.com",
@@ -9639,7 +9639,7 @@
           "unix"
         ],
         "pushed_at": "2026-08-05T14:44:49Z",
-        "updated_at": "2026-08-12T15:23:55Z",
+        "updated_at": "2026-08-13T14:56:54Z",
         "starred_at": "2026-04-10T06:00:03Z"
       },
       "summary": {
@@ -9706,7 +9706,7 @@
         "name": "starship",
         "owner": "starship",
         "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
-        "stars": 59366,
+        "stars": 59391,
         "language": "Rust",
         "url": "https://github.com/starship/starship",
         "homepage": "https://starship.rs",
@@ -9724,8 +9724,8 @@
           "zsh-prompt",
           "zsh-theme"
         ],
-        "pushed_at": "2026-08-12T03:49:25Z",
-        "updated_at": "2026-08-12T18:53:08Z",
+        "pushed_at": "2026-08-13T12:51:05Z",
+        "updated_at": "2026-08-13T17:58:34Z",
         "starred_at": "2026-04-11T03:03:16Z"
       },
       "summary": {
@@ -9783,7 +9783,7 @@
         "name": "openclaw",
         "owner": "openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-        "stars": 386064,
+        "stars": 386185,
         "language": "TypeScript",
         "url": "https://github.com/openclaw/openclaw",
         "homepage": "https://openclaw.ai",
@@ -9796,8 +9796,8 @@
           "own-your-data",
           "personal"
         ],
-        "pushed_at": "2026-08-12T19:25:07Z",
-        "updated_at": "2026-08-12T19:23:44Z",
+        "pushed_at": "2026-08-13T19:23:11Z",
+        "updated_at": "2026-08-13T19:20:04Z",
         "starred_at": "2026-04-13T08:08:30Z"
       },
       "summary": {
@@ -9855,13 +9855,13 @@
         "name": "harlequin",
         "owner": "tconbeer",
         "description": "The SQL IDE for Your Terminal.",
-        "stars": 6318,
+        "stars": 6321,
         "language": "Python",
         "url": "https://github.com/tconbeer/harlequin",
         "homepage": "https://harlequin.sh",
         "topics": [],
-        "pushed_at": "2026-08-12T17:03:19Z",
-        "updated_at": "2026-08-12T16:59:40Z",
+        "pushed_at": "2026-08-13T17:58:23Z",
+        "updated_at": "2026-08-13T18:06:22Z",
         "starred_at": "2026-04-14T05:53:11Z"
       },
       "summary": {
@@ -9887,7 +9887,7 @@
         "name": "hermes-agent",
         "owner": "NousResearch",
         "description": "The agent that grows with you",
-        "stars": 229498,
+        "stars": 230047,
         "language": "Python",
         "url": "https://github.com/NousResearch/hermes-agent",
         "homepage": "https://hermes-agent.nousresearch.com",
@@ -9906,8 +9906,8 @@
           "nous-research",
           "openai"
         ],
-        "pushed_at": "2026-08-12T18:53:23Z",
-        "updated_at": "2026-08-12T19:21:37Z",
+        "pushed_at": "2026-08-13T19:22:35Z",
+        "updated_at": "2026-08-13T19:24:07Z",
         "starred_at": "2026-04-14T05:29:35Z"
       },
       "summary": {
@@ -9976,7 +9976,7 @@
         "name": "evolver",
         "owner": "EvoMap",
         "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-        "stars": 8961,
+        "stars": 8967,
         "language": "JavaScript",
         "url": "https://github.com/EvoMap/evolver",
         "homepage": "https://evomap.ai",
@@ -10003,7 +10003,7 @@
           "skills"
         ],
         "pushed_at": "2026-08-09T16:24:22Z",
-        "updated_at": "2026-08-12T18:28:07Z",
+        "updated_at": "2026-08-13T18:17:40Z",
         "starred_at": "2026-04-16T03:16:51Z"
       },
       "summary": {
@@ -10029,7 +10029,7 @@
         "name": "awesome-design-md",
         "owner": "VoltAgent",
         "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-        "stars": 108065,
+        "stars": 108263,
         "language": "N/A",
         "url": "https://github.com/VoltAgent/awesome-design-md",
         "homepage": "https://everyfeed.ai/",
@@ -10046,7 +10046,7 @@
           "vibecoding"
         ],
         "pushed_at": "2026-07-31T12:32:42Z",
-        "updated_at": "2026-08-12T19:15:17Z",
+        "updated_at": "2026-08-13T19:21:30Z",
         "starred_at": "2026-04-20T01:32:17Z"
       },
       "summary": {
@@ -10072,7 +10072,7 @@
         "name": "OpenSpec",
         "owner": "Fission-AI",
         "description": "Spec-driven development (SDD) for AI coding assistants.",
-        "stars": 64678,
+        "stars": 64783,
         "language": "TypeScript",
         "url": "https://github.com/Fission-AI/OpenSpec",
         "homepage": "https://openspec.dev/",
@@ -10088,8 +10088,8 @@
           "spec-driven-development",
           "specification"
         ],
-        "pushed_at": "2026-08-12T16:47:42Z",
-        "updated_at": "2026-08-12T19:23:35Z",
+        "pushed_at": "2026-08-13T15:38:32Z",
+        "updated_at": "2026-08-13T18:57:07Z",
         "starred_at": "2026-04-21T01:19:49Z"
       },
       "summary": {
@@ -10233,7 +10233,7 @@
         "name": "cc-switch",
         "owner": "farion1231",
         "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-        "stars": 126712,
+        "stars": 127000,
         "language": "Rust",
         "url": "https://github.com/farion1231/cc-switch",
         "homepage": "https://ccswitch.io",
@@ -10259,8 +10259,8 @@
           "typescript",
           "wsl-support"
         ],
-        "pushed_at": "2026-08-12T15:05:47Z",
-        "updated_at": "2026-08-12T19:20:39Z",
+        "pushed_at": "2026-08-13T18:40:21Z",
+        "updated_at": "2026-08-13T18:31:39Z",
         "starred_at": "2026-06-04T08:08:41Z"
       },
       "summary": {
@@ -10286,13 +10286,13 @@
         "name": "gbrain",
         "owner": "garrytan",
         "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-        "stars": 28275,
+        "stars": 28380,
         "language": "TypeScript",
         "url": "https://github.com/garrytan/gbrain",
         "homepage": "",
         "topics": [],
-        "pushed_at": "2026-08-12T19:03:46Z",
-        "updated_at": "2026-08-12T19:00:26Z",
+        "pushed_at": "2026-08-13T19:19:17Z",
+        "updated_at": "2026-08-13T19:23:22Z",
         "starred_at": "2026-04-23T01:26:20Z"
       },
       "summary": {
@@ -10320,13 +10320,13 @@
         "name": "tolaria",
         "owner": "refactoringhq",
         "description": "Desktop app to manage markdown knowledge bases",
-        "stars": 19410,
+        "stars": 19423,
         "language": "TypeScript",
         "url": "https://github.com/refactoringhq/tolaria",
         "homepage": "https://tolaria.md",
         "topics": [],
-        "pushed_at": "2026-08-12T16:45:33Z",
-        "updated_at": "2026-08-12T17:44:23Z",
+        "pushed_at": "2026-08-13T09:44:16Z",
+        "updated_at": "2026-08-13T19:18:19Z",
         "starred_at": "2026-04-24T01:09:18Z"
       },
       "summary": {
@@ -10386,7 +10386,7 @@
         "name": "OpenClash",
         "owner": "vernesong",
         "description": "A Clash Client For OpenWrt",
-        "stars": 27091,
+        "stars": 27100,
         "language": "HTML",
         "url": "https://github.com/vernesong/OpenClash",
         "homepage": "",
@@ -10401,8 +10401,8 @@
           "v2ray",
           "vmess"
         ],
-        "pushed_at": "2026-08-12T01:09:46Z",
-        "updated_at": "2026-08-12T17:52:55Z",
+        "pushed_at": "2026-08-13T00:44:14Z",
+        "updated_at": "2026-08-13T18:25:22Z",
         "starred_at": "2026-04-28T05:10:53Z"
       },
       "summary": {
@@ -10586,7 +10586,7 @@
         "name": "warp",
         "owner": "warpdotdev",
         "description": "Warp is an agentic development environment, born out of the terminal.",
-        "stars": 64171,
+        "stars": 64195,
         "language": "Rust",
         "url": "https://github.com/warpdotdev/warp",
         "homepage": "https://warp.dev",
@@ -10600,8 +10600,8 @@
           "wasm",
           "zsh"
         ],
-        "pushed_at": "2026-08-12T19:25:11Z",
-        "updated_at": "2026-08-12T18:58:57Z",
+        "pushed_at": "2026-08-13T19:14:11Z",
+        "updated_at": "2026-08-13T19:18:17Z",
         "starred_at": "2026-04-29T01:11:55Z"
       },
       "summary": {
@@ -10693,7 +10693,7 @@
         "name": "fireworks-tech-graph",
         "owner": "yizhiyanhua-ai",
         "description": "Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.",
-        "stars": 9855,
+        "stars": 9882,
         "language": "Python",
         "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
         "homepage": "https://yizhiyanhua-ai.github.io/fireworks-tech-graph/",
@@ -10706,7 +10706,7 @@
           "svg"
         ],
         "pushed_at": "2026-07-17T04:25:22Z",
-        "updated_at": "2026-08-12T16:59:00Z",
+        "updated_at": "2026-08-13T17:53:51Z",
         "starred_at": "2026-05-02T02:54:48Z"
       },
       "summary": {
@@ -10732,7 +10732,7 @@
         "name": "spec-kit",
         "owner": "github",
         "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-        "stars": 126409,
+        "stars": 127257,
         "language": "Python",
         "url": "https://github.com/github/spec-kit",
         "homepage": "https://github.github.com/spec-kit/",
@@ -10745,8 +10745,8 @@
           "spec",
           "spec-driven"
         ],
-        "pushed_at": "2026-08-12T18:52:08Z",
-        "updated_at": "2026-08-12T18:54:16Z",
+        "pushed_at": "2026-08-13T19:21:03Z",
+        "updated_at": "2026-08-13T19:23:47Z",
         "starred_at": "2026-05-05T01:51:21Z"
       },
       "summary": {
@@ -10772,7 +10772,7 @@
         "name": "opskat",
         "owner": "opskat",
         "description": "OpsKat — All-in-one server ops workstation",
-        "stars": 635,
+        "stars": 636,
         "language": "Go",
         "url": "https://github.com/opskat/opskat",
         "homepage": "https://opskat.dev",
@@ -10781,8 +10781,8 @@
           "ops",
           "ssh-client"
         ],
-        "pushed_at": "2026-08-12T14:53:31Z",
-        "updated_at": "2026-08-12T14:30:34Z",
+        "pushed_at": "2026-08-13T18:58:43Z",
+        "updated_at": "2026-08-13T09:43:57Z",
         "starred_at": "2026-05-06T05:33:52Z"
       },
       "summary": {
@@ -10808,7 +10808,7 @@
         "name": "zsh-autocomplete",
         "owner": "marlonrichert",
         "description": "🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.",
-        "stars": 6688,
+        "stars": 6690,
         "language": "Shell",
         "url": "https://github.com/marlonrichert/zsh-autocomplete",
         "homepage": "",
@@ -10827,7 +10827,7 @@
           "zsh-plugins"
         ],
         "pushed_at": "2026-08-05T12:24:49Z",
-        "updated_at": "2026-08-12T14:58:30Z",
+        "updated_at": "2026-08-13T09:57:36Z",
         "starred_at": "2026-05-06T06:03:29Z"
       },
       "summary": {
@@ -10887,7 +10887,7 @@
         "name": "openocta",
         "owner": "openocta",
         "description": "国产开源的桌面级智能体，信创安全，适用于电脑办公、文档处理、IT运维与安全、市场营销等场景。",
-        "stars": 3053,
+        "stars": 3056,
         "language": "TypeScript",
         "url": "https://github.com/openocta/openocta",
         "homepage": "http://www.openocta.com",
@@ -10911,7 +10911,7 @@
           "workmate"
         ],
         "pushed_at": "2026-08-04T10:11:20Z",
-        "updated_at": "2026-08-12T12:57:06Z",
+        "updated_at": "2026-08-13T09:45:45Z",
         "starred_at": "2026-05-11T01:17:14Z"
       },
       "summary": {
@@ -10937,13 +10937,13 @@
         "name": "skills",
         "owner": "mattpocock",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "stars": 214930,
+        "stars": 216241,
         "language": "Shell",
         "url": "https://github.com/mattpocock/skills",
         "homepage": "https://aihero.dev/skills",
         "topics": [],
-        "pushed_at": "2026-08-07T15:50:46Z",
-        "updated_at": "2026-08-12T19:24:32Z",
+        "pushed_at": "2026-08-13T09:06:37Z",
+        "updated_at": "2026-08-13T19:23:59Z",
         "starred_at": "2026-05-11T09:15:27Z"
       },
       "summary": {
@@ -10969,13 +10969,13 @@
         "name": "paperclip",
         "owner": "paperclipai",
         "description": "The open-source app everyone uses to manage agents at work",
-        "stars": 77625,
+        "stars": 78024,
         "language": "TypeScript",
         "url": "https://github.com/paperclipai/paperclip",
         "homepage": "https://paperclip.ing",
         "topics": [],
-        "pushed_at": "2026-08-12T19:17:29Z",
-        "updated_at": "2026-08-12T19:23:06Z",
+        "pushed_at": "2026-08-13T19:18:52Z",
+        "updated_at": "2026-08-13T19:19:12Z",
         "starred_at": "2026-05-11T01:15:14Z"
       },
       "summary": {
@@ -11003,13 +11003,13 @@
         "name": "agency-agents",
         "owner": "msitarzewski",
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "stars": 144457,
+        "stars": 145120,
         "language": "Shell",
         "url": "https://github.com/msitarzewski/agency-agents",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-08-06T13:29:47Z",
-        "updated_at": "2026-08-12T19:24:51Z",
+        "updated_at": "2026-08-13T19:14:44Z",
         "starred_at": "2026-05-12T05:13:43Z"
       },
       "summary": {
@@ -11035,7 +11035,7 @@
         "name": "higress",
         "owner": "higress-group",
         "description": "🤖 AI Gateway | AI Native API Gateway",
-        "stars": 9083,
+        "stars": 9096,
         "language": "Go",
         "url": "https://github.com/higress-group/higress",
         "homepage": "https://higress.ai",
@@ -11046,8 +11046,8 @@
           "cloud-native",
           "envoy"
         ],
-        "pushed_at": "2026-08-12T15:04:06Z",
-        "updated_at": "2026-08-12T17:29:11Z",
+        "pushed_at": "2026-08-13T18:42:04Z",
+        "updated_at": "2026-08-13T18:42:10Z",
         "starred_at": "2026-05-12T05:01:44Z"
       },
       "summary": {
@@ -11073,7 +11073,7 @@
         "name": "Mos",
         "owner": "Caldis",
         "description": "一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS",
-        "stars": 21132,
+        "stars": 21150,
         "language": "Swift",
         "url": "https://github.com/Caldis/Mos",
         "homepage": "http://mos.caldis.me",
@@ -11090,7 +11090,7 @@
           "swift"
         ],
         "pushed_at": "2026-08-04T16:20:49Z",
-        "updated_at": "2026-08-12T19:21:12Z",
+        "updated_at": "2026-08-13T19:08:02Z",
         "starred_at": "2026-05-13T02:27:18Z"
       },
       "summary": {
@@ -11152,7 +11152,7 @@
         "name": "UTM",
         "owner": "utmapp",
         "description": "Virtual machines for iOS and macOS",
-        "stars": 34982,
+        "stars": 34994,
         "language": "Swift",
         "url": "https://github.com/utmapp/UTM",
         "homepage": "https://getutm.app",
@@ -11168,7 +11168,7 @@
           "vm"
         ],
         "pushed_at": "2026-08-05T07:54:18Z",
-        "updated_at": "2026-08-12T19:01:54Z",
+        "updated_at": "2026-08-13T19:15:29Z",
         "starred_at": "2026-05-14T06:52:31Z"
       },
       "summary": {
@@ -11194,7 +11194,7 @@
         "name": "MacTools",
         "owner": "ggbond268",
         "description": "A free and open-source collection of native macOS menu bar tools. ",
-        "stars": 946,
+        "stars": 973,
         "language": "Swift",
         "url": "https://github.com/ggbond268/MacTools",
         "homepage": "https://mactools.ggbond.app",
@@ -11204,8 +11204,8 @@
           "menubar",
           "swiftui"
         ],
-        "pushed_at": "2026-08-12T13:56:11Z",
-        "updated_at": "2026-08-12T16:27:39Z",
+        "pushed_at": "2026-08-13T12:05:22Z",
+        "updated_at": "2026-08-13T15:53:32Z",
         "starred_at": "2026-05-14T09:53:00Z"
       },
       "summary": {
@@ -11272,15 +11272,15 @@
         "name": "k0s",
         "owner": "k0sproject",
         "description": "k0s - The Zero Friction Kubernetes",
-        "stars": 6424,
+        "stars": 6426,
         "language": "Go",
         "url": "https://github.com/k0sproject/k0s",
         "homepage": "https://docs.k0sproject.io",
         "topics": [
           "kubernetes"
         ],
-        "pushed_at": "2026-08-12T12:43:40Z",
-        "updated_at": "2026-08-12T12:09:00Z",
+        "pushed_at": "2026-08-13T16:43:36Z",
+        "updated_at": "2026-08-13T14:53:05Z",
         "starred_at": "2026-05-15T05:09:32Z"
       },
       "summary": {
@@ -11306,13 +11306,13 @@
         "name": "huashu-design",
         "owner": "alchaincyf",
         "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
-        "stars": 22907,
+        "stars": 22971,
         "language": "HTML",
         "url": "https://github.com/alchaincyf/huashu-design",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-07-27T02:53:02Z",
-        "updated_at": "2026-08-12T18:22:38Z",
+        "updated_at": "2026-08-13T18:32:24Z",
         "starred_at": "2026-05-15T05:12:24Z"
       },
       "summary": {
@@ -11416,13 +11416,13 @@
         "name": "RunCat365",
         "owner": "runcat-dev",
         "description": "A cute running cat animation on your windows taskbar.",
-        "stars": 10253,
+        "stars": 10255,
         "language": "C#",
         "url": "https://github.com/runcat-dev/RunCat365",
         "homepage": "https://runcat-dev.github.io/RunCat365/",
         "topics": [],
         "pushed_at": "2026-07-15T12:19:26Z",
-        "updated_at": "2026-08-12T05:02:55Z",
+        "updated_at": "2026-08-13T15:40:31Z",
         "starred_at": "2024-10-15T08:18:37Z"
       },
       "summary": {
@@ -11450,7 +11450,7 @@
         "name": "cheats.rs",
         "owner": "ralfbiedert",
         "description": "Rust Language Cheat Sheet - https://cheats.rs",
-        "stars": 4555,
+        "stars": 4557,
         "language": "Rust",
         "url": "https://github.com/ralfbiedert/cheats.rs",
         "homepage": "https://cheats.rs",
@@ -11460,7 +11460,7 @@
           "rust"
         ],
         "pushed_at": "2026-05-04T20:44:17Z",
-        "updated_at": "2026-08-12T07:28:03Z",
+        "updated_at": "2026-08-13T09:05:56Z",
         "starred_at": "2026-05-22T06:34:28Z"
       },
       "summary": {
@@ -11515,7 +11515,7 @@
           "windows"
         ],
         "pushed_at": "2026-08-11T13:42:54Z",
-        "updated_at": "2026-08-12T15:08:28Z",
+        "updated_at": "2026-08-13T19:09:08Z",
         "starred_at": "2026-05-22T00:58:23Z"
       },
       "summary": {
@@ -11577,7 +11577,7 @@
         "name": "dbx",
         "owner": "t8y2",
         "description": "20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
-        "stars": 14291,
+        "stars": 14433,
         "language": "Rust",
         "url": "https://github.com/t8y2/dbx",
         "homepage": "https://dbxio.com",
@@ -11601,8 +11601,8 @@
           "tauri",
           "vue"
         ],
-        "pushed_at": "2026-08-12T19:09:56Z",
-        "updated_at": "2026-08-12T19:18:16Z",
+        "pushed_at": "2026-08-13T18:29:18Z",
+        "updated_at": "2026-08-13T18:43:46Z",
         "starred_at": "2026-05-28T09:09:56Z"
       },
       "summary": {
@@ -11628,7 +11628,7 @@
         "name": "whatcable",
         "owner": "darrylmorley",
         "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
-        "stars": 8332,
+        "stars": 8347,
         "language": "Swift",
         "url": "https://github.com/darrylmorley/whatcable",
         "homepage": "https://whatcable.uk",
@@ -11647,8 +11647,8 @@
           "usb-power-delivery",
           "utility"
         ],
-        "pushed_at": "2026-08-11T20:31:14Z",
-        "updated_at": "2026-08-12T17:17:22Z",
+        "pushed_at": "2026-08-13T10:29:07Z",
+        "updated_at": "2026-08-13T18:51:59Z",
         "starred_at": "2026-05-28T09:11:27Z"
       },
       "summary": {
@@ -11713,7 +11713,7 @@
         "name": "CodexBar",
         "owner": "steipete",
         "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-        "stars": 19998,
+        "stars": 20049,
         "language": "Swift",
         "url": "https://github.com/steipete/CodexBar",
         "homepage": "https://codex.bar",
@@ -11723,8 +11723,8 @@
           "codex",
           "swift"
         ],
-        "pushed_at": "2026-08-12T18:39:18Z",
-        "updated_at": "2026-08-12T19:11:39Z",
+        "pushed_at": "2026-08-13T18:33:48Z",
+        "updated_at": "2026-08-13T19:05:18Z",
         "starred_at": "2026-05-28T09:27:51Z"
       },
       "summary": {
@@ -11750,7 +11750,7 @@
         "name": "LaunchManager",
         "owner": "Sean10000",
         "description": "macOS app for managing launchd LaunchAgents and LaunchDaemons",
-        "stars": 80,
+        "stars": 81,
         "language": "Swift",
         "url": "https://github.com/Sean10000/LaunchManager",
         "homepage": "https://www.launchmanager.dev/",
@@ -11762,7 +11762,7 @@
           "portmanagement"
         ],
         "pushed_at": "2026-07-30T09:36:41Z",
-        "updated_at": "2026-08-11T03:20:42Z",
+        "updated_at": "2026-08-12T21:27:34Z",
         "starred_at": "2026-06-01T09:23:52Z"
       },
       "summary": {
@@ -11788,13 +11788,13 @@
         "name": "atomic-editor",
         "owner": "kenforthewin",
         "description": "CodeMirror 6 markdown editor with Obsidian-style inline live preview.",
-        "stars": 129,
+        "stars": 131,
         "language": "TypeScript",
         "url": "https://github.com/kenforthewin/atomic-editor",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-08-10T09:46:52Z",
-        "updated_at": "2026-08-12T18:56:20Z",
+        "updated_at": "2026-08-13T02:58:14Z",
         "starred_at": "2026-06-01T01:46:52Z"
       },
       "summary": {
@@ -11865,7 +11865,7 @@
         "name": "Bulk-Crap-Uninstaller",
         "owner": "BCUninstaller",
         "description": "Remove large amounts of unwanted applications quickly.",
-        "stars": 20669,
+        "stars": 20751,
         "language": "C#",
         "url": "https://github.com/BCUninstaller/Bulk-Crap-Uninstaller",
         "homepage": "https://www.bcuninstaller.com/",
@@ -11891,7 +11891,7 @@
           "windows-forms"
         ],
         "pushed_at": "2026-08-11T02:11:54Z",
-        "updated_at": "2026-08-12T18:52:34Z",
+        "updated_at": "2026-08-13T17:37:46Z",
         "starred_at": "2024-10-29T01:43:57Z"
       },
       "summary": {
@@ -11998,13 +11998,13 @@
         "name": "proxysql",
         "owner": "sysown",
         "description": "High-performance proxy for MySQL and PostgreSQL",
-        "stars": 6890,
+        "stars": 6891,
         "language": "C++",
         "url": "https://github.com/sysown/proxysql",
         "homepage": "http://www.proxysql.com",
         "topics": [],
-        "pushed_at": "2026-08-12T19:12:37Z",
-        "updated_at": "2026-08-12T15:23:30Z",
+        "pushed_at": "2026-08-13T18:44:19Z",
+        "updated_at": "2026-08-13T18:39:56Z",
         "starred_at": "2026-06-10T03:06:30Z"
       },
       "summary": {
@@ -12066,7 +12066,7 @@
         "name": "MiMo-Code",
         "owner": "XiaomiMiMo",
         "description": "MiMo Code: Where Models and Agents Co-Evolve",
-        "stars": 12716,
+        "stars": 12726,
         "language": "TypeScript",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "homepage": "https://mimo.xiaomi.com/mimocode",
@@ -12077,8 +12077,8 @@
           "mimo",
           "mimo-code"
         ],
-        "pushed_at": "2026-08-12T14:01:57Z",
-        "updated_at": "2026-08-12T18:04:22Z",
+        "pushed_at": "2026-08-13T17:48:51Z",
+        "updated_at": "2026-08-13T18:44:12Z",
         "starred_at": "2026-06-12T04:13:51Z"
       },
       "summary": {
@@ -12106,7 +12106,7 @@
         "name": "open-design",
         "owner": "nexu-io",
         "description": "🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.",
-        "stars": 85306,
+        "stars": 85562,
         "language": "TypeScript",
         "url": "https://github.com/nexu-io/open-design",
         "homepage": "https://open-design.ai",
@@ -12120,6 +12120,7 @@
           "codex-design",
           "coding-agents",
           "cursor-design",
+          "deepseek-harness",
           "design-systems",
           "design-tools",
           "desktop-app",
@@ -12127,13 +12128,12 @@
           "generative-ai",
           "hermes-agent",
           "local-first",
-          "no-code",
           "prototyping",
           "ui-generator",
           "vibe-coding"
         ],
-        "pushed_at": "2026-08-12T17:13:29Z",
-        "updated_at": "2026-08-12T19:12:44Z",
+        "pushed_at": "2026-08-13T19:07:01Z",
+        "updated_at": "2026-08-13T19:16:52Z",
         "starred_at": "2026-06-12T07:12:19Z"
       },
       "summary": {
@@ -12238,7 +12238,7 @@
         "name": "DeepSeek-Reasonix",
         "owner": "esengine",
         "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-        "stars": 34174,
+        "stars": 34444,
         "language": "Go",
         "url": "https://github.com/esengine/DeepSeek-Reasonix",
         "homepage": "http://reasonix.io/",
@@ -12260,8 +12260,8 @@
           "tui",
           "typescript"
         ],
-        "pushed_at": "2026-08-12T19:13:29Z",
-        "updated_at": "2026-08-12T19:15:42Z",
+        "pushed_at": "2026-08-13T18:42:40Z",
+        "updated_at": "2026-08-13T19:23:29Z",
         "starred_at": "2026-06-22T02:19:17Z"
       },
       "summary": {
@@ -12327,7 +12327,7 @@
         "name": "headlamp",
         "owner": "kubernetes-sigs",
         "description": "A Kubernetes web UI that is fully-featured, user-friendly and extensible",
-        "stars": 7056,
+        "stars": 7063,
         "language": "TypeScript",
         "url": "https://github.com/kubernetes-sigs/headlamp",
         "homepage": "https://headlamp.dev",
@@ -12347,8 +12347,8 @@
           "orchestration",
           "plugins"
         ],
-        "pushed_at": "2026-08-12T15:50:51Z",
-        "updated_at": "2026-08-12T15:50:58Z",
+        "pushed_at": "2026-08-13T13:57:21Z",
+        "updated_at": "2026-08-13T18:46:24Z",
         "starred_at": "2026-06-23T08:24:20Z"
       },
       "summary": {
@@ -12376,7 +12376,7 @@
         "name": "wsl-dashboard",
         "owner": "owu",
         "description": "A GUI manager for WSL featuring a modern UI — a lightweight, low‑memory, high‑performance dashboard to manage WSL instances.",
-        "stars": 3410,
+        "stars": 3423,
         "language": "Rust",
         "url": "https://github.com/owu/wsl-dashboard",
         "homepage": "https://www.wslui.com",
@@ -12395,7 +12395,7 @@
           "wsl2"
         ],
         "pushed_at": "2026-07-20T01:40:13Z",
-        "updated_at": "2026-08-12T19:11:41Z",
+        "updated_at": "2026-08-13T16:39:58Z",
         "starred_at": "2026-06-24T01:52:03Z"
       },
       "summary": {
@@ -12466,7 +12466,7 @@
         "name": "mykvm",
         "owner": "XxMinor",
         "description": "Open-source cross-platform software KVM for sharing keyboard, mouse, and clipboard across Windows, macOS, and Linux on trusted LANs.",
-        "stars": 624,
+        "stars": 627,
         "language": "Rust",
         "url": "https://github.com/XxMinor/mykvm",
         "homepage": "",
@@ -12485,7 +12485,7 @@
           "windows"
         ],
         "pushed_at": "2026-07-27T16:27:41Z",
-        "updated_at": "2026-08-11T02:25:48Z",
+        "updated_at": "2026-08-13T08:37:49Z",
         "starred_at": "2026-06-26T02:38:51Z"
       },
       "summary": {
@@ -12569,8 +12569,8 @@
           "openai-compatible",
           "responses"
         ],
-        "pushed_at": "2026-07-29T13:25:18Z",
-        "updated_at": "2026-08-09T18:49:05Z",
+        "pushed_at": "2026-08-13T10:16:46Z",
+        "updated_at": "2026-08-13T10:17:13Z",
         "starred_at": "2026-06-26T02:38:54Z"
       },
       "summary": {
@@ -12649,7 +12649,7 @@
         "name": "Trellis",
         "owner": "mindfold-ai",
         "description": "The best agent harness.",
-        "stars": 13876,
+        "stars": 13904,
         "language": "TypeScript",
         "url": "https://github.com/mindfold-ai/Trellis",
         "homepage": "https://docs.trytrellis.app",
@@ -12660,8 +12660,8 @@
           "codex",
           "harness"
         ],
-        "pushed_at": "2026-08-11T12:08:50Z",
-        "updated_at": "2026-08-12T17:35:40Z",
+        "pushed_at": "2026-08-13T16:54:09Z",
+        "updated_at": "2026-08-13T19:03:37Z",
         "starred_at": "2026-06-30T07:11:31Z"
       },
       "summary": {
@@ -12689,7 +12689,7 @@
         "name": "gopass",
         "owner": "gopasspw",
         "description": "The slightly more awesome standard unix password manager for teams",
-        "stars": 7079,
+        "stars": 7082,
         "language": "Go",
         "url": "https://github.com/gopasspw/gopass",
         "homepage": "https://www.gopass.pw/",
@@ -12702,7 +12702,7 @@
           "security"
         ],
         "pushed_at": "2026-08-12T11:22:50Z",
-        "updated_at": "2026-08-12T11:23:10Z",
+        "updated_at": "2026-08-13T14:05:27Z",
         "starred_at": "2026-06-30T01:37:26Z"
       },
       "summary": {
@@ -12780,7 +12780,7 @@
         "name": "context7",
         "owner": "upstash",
         "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
-        "stars": 60654,
+        "stars": 60692,
         "language": "TypeScript",
         "url": "https://github.com/upstash/context7",
         "homepage": "https://context7.com",
@@ -12790,8 +12790,8 @@
           "mcp-server",
           "vibe-coding"
         ],
-        "pushed_at": "2026-08-12T18:46:13Z",
-        "updated_at": "2026-08-12T18:55:27Z",
+        "pushed_at": "2026-08-13T13:03:21Z",
+        "updated_at": "2026-08-13T19:20:50Z",
         "starred_at": "2026-07-03T04:26:21Z"
       },
       "summary": {
@@ -12819,13 +12819,13 @@
         "name": "supergateway",
         "owner": "supercorp-ai",
         "description": "Run MCP stdio servers over SSE and SSE over stdio. AI gateway.",
-        "stars": 2807,
+        "stars": 2805,
         "language": "TypeScript",
         "url": "https://github.com/supercorp-ai/supergateway",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-10-09T17:05:14Z",
-        "updated_at": "2026-08-12T17:37:44Z",
+        "updated_at": "2026-08-13T18:53:13Z",
         "starred_at": "2026-07-03T06:42:04Z"
       },
       "summary": {
@@ -12851,7 +12851,7 @@
         "name": "mcp-proxy",
         "owner": "sparfenyuk",
         "description": "A bridge between Streamable HTTP and stdio MCP transports",
-        "stars": 2705,
+        "stars": 2707,
         "language": "Python",
         "url": "https://github.com/sparfenyuk/mcp-proxy",
         "homepage": "",
@@ -12863,7 +12863,7 @@
           "streamable-http"
         ],
         "pushed_at": "2026-07-20T21:05:47Z",
-        "updated_at": "2026-08-12T12:40:38Z",
+        "updated_at": "2026-08-13T12:19:46Z",
         "starred_at": "2026-07-06T03:03:47Z"
       },
       "summary": {
@@ -12889,7 +12889,7 @@
         "name": "openagent",
         "owner": "the-open-agent",
         "description": "⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org",
-        "stars": 5510,
+        "stars": 5512,
         "language": "Go",
         "url": "https://github.com/the-open-agent/openagent",
         "homepage": "https://www.openagentai.org/",
@@ -12915,7 +12915,7 @@
           "rag"
         ],
         "pushed_at": "2026-08-07T14:38:08Z",
-        "updated_at": "2026-08-12T14:19:50Z",
+        "updated_at": "2026-08-13T08:09:33Z",
         "starred_at": "2026-07-06T08:44:41Z"
       },
       "summary": {
@@ -12943,13 +12943,13 @@
         "name": "openwiki",
         "owner": "langchain-ai",
         "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
-        "stars": 14942,
+        "stars": 15009,
         "language": "TypeScript",
         "url": "https://github.com/langchain-ai/openwiki",
         "homepage": "",
         "topics": [],
-        "pushed_at": "2026-08-12T18:10:06Z",
-        "updated_at": "2026-08-12T19:09:51Z",
+        "pushed_at": "2026-08-13T19:07:48Z",
+        "updated_at": "2026-08-13T19:20:53Z",
         "starred_at": "2026-07-07T01:20:43Z"
       },
       "summary": {
@@ -12975,13 +12975,13 @@
         "name": "cli",
         "owner": "larksuite",
         "description": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
-        "stars": 16404,
+        "stars": 16436,
         "language": "Go",
         "url": "https://github.com/larksuite/cli",
         "homepage": "",
         "topics": [],
-        "pushed_at": "2026-08-12T15:39:01Z",
-        "updated_at": "2026-08-12T15:53:01Z",
+        "pushed_at": "2026-08-13T19:16:51Z",
+        "updated_at": "2026-08-13T17:31:39Z",
         "starred_at": "2026-07-07T01:12:20Z"
       },
       "summary": {
@@ -13007,13 +13007,13 @@
         "name": "davit",
         "owner": "wouterdebie",
         "description": "A native macOS UI for Apple's platform",
-        "stars": 1275,
+        "stars": 1279,
         "language": "Swift",
         "url": "https://github.com/wouterdebie/davit",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-07-31T00:31:26Z",
-        "updated_at": "2026-08-12T00:26:07Z",
+        "updated_at": "2026-08-13T10:17:50Z",
         "starred_at": "2026-07-08T01:10:03Z"
       },
       "summary": {
@@ -13041,7 +13041,7 @@
         "name": "obsidian-llm-wiki",
         "owner": "green-dalii",
         "description": "Karpathy's LLM Wiki implementation plugin for Obsidian - turns notes and PDFs into a linked, LLM-powered knowledge base with entity pages, concept pages, graph-powered Q&A, and local-first privacy.",
-        "stars": 449,
+        "stars": 452,
         "language": "TypeScript",
         "url": "https://github.com/green-dalii/obsidian-llm-wiki",
         "homepage": "https://llmwiki.greenerai.top",
@@ -13059,8 +13059,8 @@
           "pdf-processing",
           "privacy-first"
         ],
-        "pushed_at": "2026-08-12T12:47:59Z",
-        "updated_at": "2026-08-12T15:34:28Z",
+        "pushed_at": "2026-08-13T16:25:10Z",
+        "updated_at": "2026-08-13T16:35:57Z",
         "starred_at": "2026-07-08T05:33:30Z"
       },
       "summary": {
@@ -13243,7 +13243,7 @@
         "name": "CLIProxyAPI",
         "owner": "router-for-me",
         "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API",
-        "stars": 47044,
+        "stars": 47192,
         "language": "Go",
         "url": "https://github.com/router-for-me/CLIProxyAPI",
         "homepage": "",
@@ -13255,8 +13255,8 @@
           "gemini",
           "openai"
         ],
-        "pushed_at": "2026-08-12T17:50:55Z",
-        "updated_at": "2026-08-12T18:59:24Z",
+        "pushed_at": "2026-08-13T19:19:40Z",
+        "updated_at": "2026-08-13T19:02:16Z",
         "starred_at": "2026-07-21T02:48:44Z"
       },
       "summary": {
@@ -13282,13 +13282,13 @@
         "name": "pi",
         "owner": "earendil-works",
         "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-        "stars": 88501,
+        "stars": 89518,
         "language": "TypeScript",
         "url": "https://github.com/earendil-works/pi",
         "homepage": "",
         "topics": [],
-        "pushed_at": "2026-08-12T18:54:15Z",
-        "updated_at": "2026-08-12T19:12:49Z",
+        "pushed_at": "2026-08-13T16:16:44Z",
+        "updated_at": "2026-08-13T19:22:00Z",
         "starred_at": "2026-07-22T02:39:37Z"
       },
       "summary": {
@@ -13368,7 +13368,7 @@
         "name": "EasyTier",
         "owner": "EasyTier",
         "description": "A simple, decentralized mesh VPN with WireGuard support.",
-        "stars": 13084,
+        "stars": 13122,
         "language": "Rust",
         "url": "https://github.com/EasyTier/EasyTier",
         "homepage": "https://easytier.cn",
@@ -13380,8 +13380,8 @@
           "vpn",
           "zerotier"
         ],
-        "pushed_at": "2026-08-12T18:56:01Z",
-        "updated_at": "2026-08-12T18:35:04Z",
+        "pushed_at": "2026-08-13T01:56:46Z",
+        "updated_at": "2026-08-13T18:25:24Z",
         "starred_at": "2026-07-24T03:45:16Z"
       },
       "summary": {
@@ -13409,7 +13409,7 @@
         "name": "RelayBar",
         "owner": "lx2026",
         "description": "Tiny native macOS menu-bar manager for SSH local port forwards",
-        "stars": 72,
+        "stars": 73,
         "language": "Swift",
         "url": "https://github.com/lx2026/RelayBar",
         "homepage": "https://lx2026.github.io/RelayBar/",
@@ -13422,7 +13422,7 @@
           "swiftui"
         ],
         "pushed_at": "2026-08-04T01:24:49Z",
-        "updated_at": "2026-08-04T01:24:59Z",
+        "updated_at": "2026-08-13T09:49:13Z",
         "starred_at": "2026-07-24T03:40:57Z"
       },
       "summary": {
@@ -13450,13 +13450,13 @@
         "name": "kero",
         "owner": "egoist",
         "description": "A native terminal workspace for macOS.",
-        "stars": 869,
+        "stars": 876,
         "language": "Swift",
         "url": "https://github.com/egoist/kero",
         "homepage": "https://kero.sh",
         "topics": [],
-        "pushed_at": "2026-08-11T11:40:39Z",
-        "updated_at": "2026-08-12T18:26:04Z",
+        "pushed_at": "2026-08-13T18:56:10Z",
+        "updated_at": "2026-08-13T18:56:17Z",
         "starred_at": "2026-07-27T01:49:49Z"
       },
       "summary": {
@@ -13482,7 +13482,7 @@
         "name": "Thaw",
         "owner": "thaw-app",
         "description": "The menu bar manager for macOS",
-        "stars": 9720,
+        "stars": 9750,
         "language": "Swift",
         "url": "https://github.com/thaw-app/Thaw",
         "homepage": "",
@@ -13496,8 +13496,8 @@
           "swiftui",
           "utility"
         ],
-        "pushed_at": "2026-08-12T15:15:22Z",
-        "updated_at": "2026-08-12T16:57:01Z",
+        "pushed_at": "2026-08-13T14:52:59Z",
+        "updated_at": "2026-08-13T18:11:39Z",
         "starred_at": "2026-03-05T05:55:29Z"
       },
       "summary": {
@@ -13568,7 +13568,7 @@
         "name": "open-connector",
         "owner": "oomol-lab",
         "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-        "stars": 4616,
+        "stars": 4656,
         "language": "TypeScript",
         "url": "https://github.com/oomol-lab/open-connector",
         "homepage": "https://oomol.com",
@@ -13592,8 +13592,8 @@
           "self-hosted",
           "typescript"
         ],
-        "pushed_at": "2026-08-12T13:49:31Z",
-        "updated_at": "2026-08-12T17:43:59Z",
+        "pushed_at": "2026-08-13T09:20:44Z",
+        "updated_at": "2026-08-13T16:42:46Z",
         "starred_at": "2026-07-31T01:10:15Z"
       },
       "summary": {
@@ -13621,13 +13621,13 @@
         "name": "birth",
         "owner": "iAmCorey",
         "description": "一目了然地管理你的电脑启动项 | 开源 macOS 启动项管理器",
-        "stars": 424,
+        "stars": 438,
         "language": "Swift",
         "url": "https://github.com/iAmCorey/birth",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-08-12T08:00:19Z",
-        "updated_at": "2026-08-12T18:11:25Z",
+        "updated_at": "2026-08-13T15:23:31Z",
         "starred_at": "2026-07-31T01:13:57Z"
       },
       "summary": {
@@ -13653,7 +13653,7 @@
         "name": "oh-my-pi",
         "owner": "can1357",
         "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-        "stars": 24193,
+        "stars": 24531,
         "language": "TypeScript",
         "url": "https://github.com/can1357/oh-my-pi",
         "homepage": "https://omp.sh",
@@ -13674,8 +13674,8 @@
           "tui",
           "typescript"
         ],
-        "pushed_at": "2026-08-12T19:21:57Z",
-        "updated_at": "2026-08-12T19:13:10Z",
+        "pushed_at": "2026-08-13T18:56:20Z",
+        "updated_at": "2026-08-13T19:14:37Z",
         "starred_at": "2026-07-31T03:40:57Z"
       },
       "summary": {
@@ -13703,7 +13703,7 @@
         "name": "mu",
         "owner": "micro",
         "description": "Tools for Agents",
-        "stars": 328,
+        "stars": 330,
         "language": "Go",
         "url": "https://github.com/micro/mu",
         "homepage": "https://micro.mu",
@@ -13713,8 +13713,8 @@
           "micro",
           "mu"
         ],
-        "pushed_at": "2026-08-12T17:31:32Z",
-        "updated_at": "2026-08-12T18:58:02Z",
+        "pushed_at": "2026-08-13T19:15:40Z",
+        "updated_at": "2026-08-13T19:16:13Z",
         "starred_at": "2026-08-03T01:03:45Z"
       },
       "summary": {
@@ -13740,7 +13740,7 @@
         "name": "ai-agent-book",
         "owner": "bojieli",
         "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-        "stars": 36578,
+        "stars": 36975,
         "language": "Python",
         "url": "https://github.com/bojieli/ai-agent-book",
         "homepage": "",
@@ -13759,8 +13759,8 @@
           "rag",
           "reinforcement-learning"
         ],
-        "pushed_at": "2026-08-12T15:57:03Z",
-        "updated_at": "2026-08-12T18:59:09Z",
+        "pushed_at": "2026-08-13T16:13:57Z",
+        "updated_at": "2026-08-13T19:12:04Z",
         "starred_at": "2026-08-04T06:35:10Z"
       },
       "summary": {
@@ -13786,7 +13786,7 @@
         "name": "TREK",
         "owner": "liketrek",
         "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-        "stars": 12087,
+        "stars": 12178,
         "language": "TypeScript",
         "url": "https://github.com/liketrek/TREK",
         "homepage": "https://demo.liketrek.com",
@@ -13811,8 +13811,8 @@
           "wanderlust",
           "webapplication"
         ],
-        "pushed_at": "2026-08-12T19:11:05Z",
-        "updated_at": "2026-08-12T18:16:16Z",
+        "pushed_at": "2026-08-13T14:24:09Z",
+        "updated_at": "2026-08-13T19:19:52Z",
         "starred_at": "2026-08-04T02:43:39Z"
       },
       "summary": {
@@ -13838,7 +13838,7 @@
         "name": "code-review-graph",
         "owner": "tirth8205",
         "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-        "stars": 29905,
+        "stars": 30014,
         "language": "Python",
         "url": "https://github.com/tirth8205/code-review-graph",
         "homepage": "https://code-review-graph.com",
@@ -13857,7 +13857,7 @@
           "tree-sitter"
         ],
         "pushed_at": "2026-08-02T12:45:39Z",
-        "updated_at": "2026-08-12T18:55:51Z",
+        "updated_at": "2026-08-13T19:20:31Z",
         "starred_at": "2026-08-04T02:46:33Z"
       },
       "summary": {
@@ -13885,13 +13885,13 @@
         "name": "astryx",
         "owner": "facebook",
         "description": "An open source design system that's fully customizable and agent ready",
-        "stars": 11957,
+        "stars": 11979,
         "language": "TypeScript",
         "url": "https://github.com/facebook/astryx",
         "homepage": "http://astryx.atmeta.com",
         "topics": [],
-        "pushed_at": "2026-08-12T19:09:10Z",
-        "updated_at": "2026-08-12T19:00:40Z",
+        "pushed_at": "2026-08-13T19:04:34Z",
+        "updated_at": "2026-08-13T18:50:59Z",
         "starred_at": "2026-08-04T02:42:37Z"
       },
       "summary": {
@@ -13919,13 +13919,13 @@
         "name": "codex",
         "owner": "openai",
         "description": "Lightweight coding agent that runs in your terminal",
-        "stars": 105550,
+        "stars": 105740,
         "language": "Rust",
         "url": "https://github.com/openai/codex",
         "homepage": "",
         "topics": [],
-        "pushed_at": "2026-08-12T19:16:30Z",
-        "updated_at": "2026-08-12T19:16:34Z",
+        "pushed_at": "2026-08-13T19:16:51Z",
+        "updated_at": "2026-08-13T19:21:41Z",
         "starred_at": "2026-08-05T06:49:08Z"
       },
       "summary": {
@@ -13951,13 +13951,13 @@
         "name": "obsidian-excalidraw-plugin",
         "owner": "zsviczian",
         "description": "A plugin to edit and view Excalidraw drawings in Obsidian",
-        "stars": 7425,
+        "stars": 7432,
         "language": "TypeScript",
         "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin",
         "homepage": "",
         "topics": [],
-        "pushed_at": "2026-08-12T18:50:10Z",
-        "updated_at": "2026-08-12T18:50:30Z",
+        "pushed_at": "2026-08-13T17:37:01Z",
+        "updated_at": "2026-08-13T18:20:15Z",
         "starred_at": "2026-08-07T01:08:04Z"
       },
       "summary": {
@@ -13983,7 +13983,7 @@
         "name": "wallfacer",
         "owner": "pradipta",
         "description": "A terminal session manager for Claude Code, and more",
-        "stars": 106,
+        "stars": 108,
         "language": "Go",
         "url": "https://github.com/pradipta/wallfacer",
         "homepage": "",
@@ -13997,7 +13997,7 @@
           "tui-app"
         ],
         "pushed_at": "2026-08-01T01:37:52Z",
-        "updated_at": "2026-08-12T08:23:28Z",
+        "updated_at": "2026-08-13T11:59:47Z",
         "starred_at": "2026-08-07T01:07:59Z"
       },
       "summary": {
@@ -14025,13 +14025,13 @@
         "name": "druid",
         "owner": "alibaba",
         "description": "阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池",
-        "stars": 28182,
+        "stars": 28183,
         "language": "Java",
         "url": "https://github.com/alibaba/druid",
         "homepage": "https://github.com/alibaba/druid/wiki",
         "topics": [],
         "pushed_at": "2026-08-01T11:32:54Z",
-        "updated_at": "2026-08-12T07:47:21Z",
+        "updated_at": "2026-08-13T07:43:56Z",
         "starred_at": "2026-08-11T03:07:53Z"
       },
       "summary": {
@@ -14059,7 +14059,7 @@
         "name": "writemd",
         "owner": "danielbilek",
         "description": "Open-source macOS Markdown editor with appearance profiles, Vim mode, previews, and local writing corrections.",
-        "stars": 68,
+        "stars": 75,
         "language": "TypeScript",
         "url": "https://github.com/danielbilek/writemd",
         "homepage": "https://writemd.app/",
@@ -14078,7 +14078,7 @@
           "writing"
         ],
         "pushed_at": "2026-08-12T15:46:37Z",
-        "updated_at": "2026-08-12T16:06:56Z",
+        "updated_at": "2026-08-13T18:16:50Z",
         "starred_at": "2026-08-12T01:07:07Z"
       },
       "summary": {
@@ -14099,6 +14099,44 @@
       },
       "pushed_at": "2026-08-12T15:46:37Z",
       "updated_at": "2026-08-12"
+    },
+    "deepseek-ai/deepseek-harness": {
+      "metadata": {
+        "full_name": "deepseek-ai/deepseek-harness",
+        "name": "deepseek-harness",
+        "owner": "deepseek-ai",
+        "description": "DeepSeek Harness: Everything is a Plugin.",
+        "stars": 37210,
+        "language": "TypeScript",
+        "url": "https://github.com/deepseek-ai/deepseek-harness",
+        "homepage": "https://deepseek.com/harness",
+        "topics": [
+          "cordis",
+          "dsh",
+          "dsh-plugin"
+        ],
+        "pushed_at": "2026-08-13T13:00:21Z",
+        "updated_at": "2026-08-13T19:24:19Z",
+        "starred_at": "2026-08-13T14:03:03Z"
+      },
+      "summary": {
+        "zh": "DeepSeek Harness 是 DeepSeek AI 开源的智能体运行框架，采用“一切皆插件”的架构，基于 Cordis 实现时空组合性编程，提供 Web UI 以灵活构建和扩展 AI 智能体应用。",
+        "en": "DeepSeek Harness is an open-source agent harness from DeepSeek AI, featuring an everything-is-a-plugin architecture powered by Cordis for spatiotemporal composability. It includes a Web UI for building and extending AI agents.",
+        "tags_zh": [
+          "AI智能体",
+          "Cordis",
+          "插件化架构",
+          "智能体开发框架"
+        ],
+        "tags_en": [
+          "AI Agents",
+          "Agent Development Framework",
+          "Cordis",
+          "Plugin Architecture"
+        ]
+      },
+      "pushed_at": "2026-08-13T13:00:21Z",
+      "updated_at": "2026-08-13"
     }
   }
 }
